@@ -67,7 +67,7 @@ def index(request):
                 }
             )
         except :
-            print(browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_class_name('ovo-deals-merchant-details').find_element_by_tag_name('div').text)
+            print(browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_class_name('ovo-deals-merchant-details').text)
 
             datas.append(
                 {

@@ -7,7 +7,7 @@
   "image_url": "https://images-loyalty.ovo.id/public/deal/39/36/l/16938.jpg?ver=1",
   "discount_start_date": "",
   "discount_end_date": "31 Mar 2019",
-  "created_at": "2019-03-22 01:00:53"
+  "created_at": "2019-03-22 04:13:16"
 }, {
   "discountid": "",
   "short_description": "Voucher Rp 50.000 Diskon 50%",
@@ -17,7 +17,7 @@
   "image_url": "https://images-loyalty.ovo.id/public/deal/86/32/l/17474.jpg?ver=1",
   "discount_start_date": "",
   "discount_end_date": "17 Jun 2019",
-  "created_at": "2019-03-22 01:00:56"
+  "created_at": "2019-03-22 04:13:19"
 }, {
   "discountid": "",
   "short_description": "Yuk, Berpetualang-Kenyang se-Indonesia!",
@@ -27,7 +27,7 @@
   "image_url": "https://images-loyalty.ovo.id/public/deal/00/34/l/17532.jpg?ver=1",
   "discount_start_date": "",
   "discount_end_date": "31 Mar 2019",
-  "created_at": "2019-03-22 01:01:00"
+  "created_at": "2019-03-22 04:13:23"
 }, {
   "discountid": "",
   "short_description": "Every Picture Tell a Story",
@@ -37,7 +37,7 @@
   "image_url": "https://images-loyalty.ovo.id/public/deal/23/58/l/14331.jpg?ver=1",
   "discount_start_date": "",
   "discount_end_date": "30 Apr 2019",
-  "created_at": "2019-03-22 01:01:03"
+  "created_at": "2019-03-22 04:13:26"
 }, {
   "discountid": "",
   "short_description": "Scan QR, Cashback 30% di Merchant UMKM",
@@ -47,7 +47,7 @@
   "image_url": "https://images-loyalty.ovo.id/public/deal/78/88/l/15438.jpg?ver=1",
   "discount_start_date": "",
   "discount_end_date": "31 Mar 2019",
-  "created_at": "2019-03-22 01:01:06"
+  "created_at": "2019-03-22 04:13:29"
 }, {
   "discountid": "",
   "short_description": "5% Cashback for every booking!",
@@ -57,7 +57,7 @@
   "image_url": "https://images-loyalty.ovo.id/public/deal/42/14/l/16618.jpg?ver=1",
   "discount_start_date": "",
   "discount_end_date": "31 Dec 2019",
-  "created_at": "2019-03-22 01:01:10"
+  "created_at": "2019-03-22 04:13:33"
 }, {
   "discountid": "",
   "short_description": "OVO Points makin sakti!",
@@ -67,7 +67,7 @@
   "image_url": "https://images-loyalty.ovo.id/public/deal/50/32/l/16936.jpg?ver=1",
   "discount_start_date": "",
   "discount_end_date": "31 Dec 2019",
-  "created_at": "2019-03-22 01:01:13"
+  "created_at": "2019-03-22 04:13:36"
 }, {
   "discountid": "",
   "short_description": "Abis Gajian saatnya Belanja Segunung!",
@@ -77,5 +77,1835 @@
   "image_url": "https://images-loyalty.ovo.id/public/deal/14/23/l/16994.jpg?ver=1",
   "discount_start_date": "",
   "discount_end_date": "31 Mar 2019",
-  "created_at": "2019-03-22 01:01:16"
+  "created_at": "2019-03-22 04:13:39"
+}, {
+  "discountid": "",
+  "short_description": "Maret Semakin Tap-Mantap di Tokopedia",
+  "shop_name": "OVO",
+  "provider": "ovo",
+  "discount_detail": "Tap-Mantap Belanja sepuasnya, bayarnya tingga tap pake OVO Cash langsung GRATIS Ongkir-nya! Mau tau info lengkapnya? Langsung cek kupon kamu di sini ya: https://www.tokopedia.com/tokopoints/kupon-saya/ ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/00/32/l/17331.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:13:43"
+}, {
+  "discountid": "",
+  "short_description": "Have a Delicious Week!",
+  "shop_name": "OVO",
+  "provider": "ovo",
+  "discount_detail": "Makan enak seminggu penuh? Tantangan diterima! Cukup #pakeOVOaja dan dapatkan Cashback 60% di semua resto/cafe Boga Group, termasuk favorit kamu:\n- Bakerzin\n- Kimukatsu\n- Master Wok\n- Nudles\n- Onokabe\n- Paradise Dynasty\n- Paradise Inn\n- Pish & Posh Cafe\n- Putu Made\n- Ten Ten",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/38/35/l/17598.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "25 Mar 2019",
+  "created_at": "2019-03-22 04:13:46"
+}, {
+  "discountid": "",
+  "short_description": "Fashion Fascination!",
+  "shop_name": "OVO",
+  "provider": "ovo",
+  "discount_detail": "Bikin auramu ekstra mesmerizing! Yuk berburu brand fashion dan beauty favoritmu dengan Cashback 30% di MAP Fashion (Sephora, Seibu, & Galeries Lafayette).",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/39/37/l/17612.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "20 Apr 2019",
+  "created_at": "2019-03-22 04:13:50"
+}, {
+  "discountid": "",
+  "short_description": "Naik Grab ke Mana Aja, Cuma Bayar Rp1!",
+  "shop_name": "Grab",
+  "provider": "ovo",
+  "discount_detail": "Kamu Mesti Banget Tau! Naik Grab cuma bayar Rp1 untuk perjalanan pertamamu pake OVO! Jangn lupa download dan klik ikon \"Activate\" di pojok kanan atas aplikasi Grab kamu, ya!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/31/98/l/12235.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:13:53"
+}, {
+  "discountid": "",
+  "short_description": "Healthy Smile Starts Here!",
+  "shop_name": "HAPPY DENTAL CLINIC",
+  "provider": "ovo",
+  "discount_detail": "Dapatkan promo untuk scaling (pembersihan karang gigi) di Happy Dental Clinic hanya Rp249.000 (harga normal Rp500.000). Segera kunjungi lokasi berikut:",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/24/26/l/13216.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Jul 2019",
+  "created_at": "2019-03-22 04:13:56"
+}, {
+  "discountid": "",
+  "short_description": "Scrumptious A La Carte Menu",
+  "shop_name": "BARELO RESTAURANT",
+  "provider": "ovo",
+  "discount_detail": "Nikmati Cashback 15% untuk menu A La Carte di BaReLo Restaurant at Swiss-Belinn Simatupang",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/34/57/l/14306.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Jul 2019",
+  "created_at": "2019-03-22 04:14:00"
+}, {
+  "discountid": "",
+  "short_description": "Cashback for Every Trip!",
+  "shop_name": "SRIWIJAYA AIR",
+  "provider": "ovo",
+  "discount_detail": "Terbang bersama Sriwijaya Air Group cukup bayar #pakeOVOaja dan nikmati Cashback 5%!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/95/14/l/16651.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "28 Apr 2019",
+  "created_at": "2019-03-22 04:14:03"
+}, {
+  "discountid": "",
+  "short_description": "Kenangan Termanis Kamu & Dia",
+  "shop_name": "KOPI KENANGAN",
+  "provider": "ovo",
+  "discount_detail": "Manisnya Cashback 40% untuk Kopi Kenangan favoritmu Cukup #pakeOVOaja",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/54/24/l/17038.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:14:06"
+}, {
+  "discountid": "",
+  "short_description": "Tokyo's Favorite Soba",
+  "shop_name": "Abura Soba",
+  "provider": "ovo",
+  "discount_detail": "Indulge yourself with a bowl of tasty Soba and get Cashback 30% Cukup #pakeOVOaja!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/59/24/l/17039.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:14:10"
+}, {
+  "discountid": "",
+  "short_description": "Golden Brown Perfection All Day Long!",
+  "shop_name": "Auntie Annes",
+  "provider": "ovo",
+  "discount_detail": "Freshly baked pretzel  + Cashback 30% untuk kamu para Auntie Anne's Lovers!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/66/24/l/17042.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:14:13"
+}, {
+  "discountid": "",
+  "short_description": "Sweet or Savory? It\u2019s Your Choice.",
+  "shop_name": "BAKERZIN BMM",
+  "provider": "ovo",
+  "discount_detail": "Datang ke Bakerzin, nikmati Cashback 30% and have a sweet day!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/71/24/l/17043.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:14:17"
+}, {
+  "discountid": "",
+  "short_description": "D'real Crepes D'Real Joy",
+  "shop_name": "DCrepes",
+  "provider": "ovo",
+  "discount_detail": "Pilih manis atau gurih? Ini yang selalu bikin galau tiap pesan D'Crepes, nah ga perlu worry, karena ada Cashback 30% dari OVO, langsung beli dua-duanya yah!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/78/24/l/17050.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:14:20"
+}, {
+  "discountid": "",
+  "short_description": "Cheese Foam TERGURIH!",
+  "shop_name": "GULU GULU CHEESE TEA",
+  "provider": "ovo",
+  "discount_detail": "Yayy!!! Taiwanese Cheese Tea & Brown Slurppy Bobba favoritmu kini Cashback 30% Cukup #pakeOVOaja!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/83/24/l/17055.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:14:23"
+}, {
+  "discountid": "",
+  "short_description": "Let's Scream for Ice Cream!",
+  "shop_name": "HAAGEN DAZS",
+  "provider": "ovo",
+  "discount_detail": "Reward yourself with a scoop or two of your favorite Haagen-Dazs ice cream and get Cashback 30% Cukup #pakeOVOaja.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/90/24/l/17058.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:14:27"
+}, {
+  "discountid": "",
+  "short_description": "Calling All Bento Fans!",
+  "shop_name": "HokBen",
+  "provider": "ovo",
+  "discount_detail": "Teriyaki, Yakiniku, Katsu? Semua menu favoritmu di Hokben Cashback 30%  Cukup #pakeOVOaja!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/30/25/l/17060.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:14:30"
+}, {
+  "discountid": "",
+  "short_description": "Taiwan's Heritage Premium Bubble Tea",
+  "shop_name": "KOI THE",
+  "provider": "ovo",
+  "discount_detail": "There's always a reason to smile, for there's Cashback 30% for your favorite drinks at Koi The!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/02/25/l/17062.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:14:33"
+}, {
+  "discountid": "",
+  "short_description": "2 New Beef Bowl + 2 Big Fried Chicken",
+  "shop_name": "Yoshinoya",
+  "provider": "ovo",
+  "discount_detail": "Hangout bareng di Yoshinoya aja. Cukup #pakeOVOaja kamu bisa dapatkan 2 New Beef Bowl + 2 Big Fried Chicken hanya Rp94.000. Yuk rame-rame ke Yoshinoya terdekat!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/80/25/l/17104.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:14:37"
+}, {
+  "discountid": "",
+  "short_description": "50% Discount for Small Cup",
+  "shop_name": "GAYA GELATO",
+  "provider": "ovo",
+  "discount_detail": "Jajan yang manis & menarik yuk. Ajak teman kamu ke Gaya Gelato & cobain Biscotti e crema atau Cioccolato. Ada banyak lagi yang menantimu!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/39/28/l/17207.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 May 2019",
+  "created_at": "2019-03-22 04:14:41"
+}, {
+  "discountid": "",
+  "short_description": "Maybelline Voucher Value Rp 25.000",
+  "shop_name": "Matahari Department Store",
+  "provider": "ovo",
+  "discount_detail": "Belanja make up untuk sehari-hari dari Maybelline lebih hemat kalua kamu punya voucher diskon Rp25.000 ini. Yuk ke Matahari & beli mascara Maybelline baru!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/46/28/l/17210.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:14:45"
+}, {
+  "discountid": "",
+  "short_description": "Shopping Voucher Rp500.000",
+  "shop_name": "Polo",
+  "provider": "ovo",
+  "discount_detail": "Bergaya kasual tapi tetap elegan? Polo jawabannya! Yuk belanja buat kamu atau orang tersayang kamu sekarang. Cukup #pakeOVOaja bisa lebih hemat dengan voucher senilai Rp500.000 hanya Rp350.000.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/52/33/l/17351.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "12 Apr 2019",
+  "created_at": "2019-03-22 04:14:48"
+}, {
+  "discountid": "",
+  "short_description": "Appsolutely Amazing Shopping!",
+  "shop_name": "Matahari Department Store",
+  "provider": "ovo",
+  "discount_detail": "Belanja apa aja, bikin seru dengan Cashback 40% di aplikasi Matahari.com. ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/94/32/l/17482.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "24 Mar 2019",
+  "created_at": "2019-03-22 04:14:51"
+}, {
+  "discountid": "",
+  "short_description": "Snack Time, Shihlin Time!",
+  "shop_name": "Shihlin TaiwanStreetSnack",
+  "provider": "ovo",
+  "discount_detail": "Yang mana favoritmu: XXL Crispy Chicken, Sweet Plum Potato Fries, Seafood Tempura, atau menu lainnya?",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/28/33/l/17496.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:14:55"
+}, {
+  "discountid": "",
+  "short_description": "Welcome to Miniso!",
+  "shop_name": "Miniso",
+  "provider": "ovo",
+  "discount_detail": "Cuma di Miniso, kamu bisa beli banyak perlengkapan menarik dengan harga terjangkau! Dapatkan cashback 30% untuk semua kebutuhanmu Cukup #pakeOVOaja!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/34/33/l/17502.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:14:58"
+}, {
+  "discountid": "",
+  "short_description": "No 1 Beef Bowl in Japan",
+  "shop_name": "Yoshinoya",
+  "provider": "ovo",
+  "discount_detail": "Kalo lagi laper-lapernya, ngga ada yang ngalahin nikmatnya Yoshinoya Beef Bowl + Cashback 30% cukup #pakeOVOaja!!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/40/33/l/17504.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:15:02"
+}, {
+  "discountid": "",
+  "short_description": "Stay Close, Stay Connected!",
+  "shop_name": "HIS TRAVEL",
+  "provider": "ovo",
+  "discount_detail": "Kamu bisa tetap internetan dengan mudah di Jepang dengan modem wifi dari HIS Travel! Harga ekonomis, dapat langsung digunakan ketika sampai di Jepang. Dapatkan juga cashback 25% khusus pengguna OVO.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/11/50/l/11504.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:15:05"
+}, {
+  "discountid": "",
+  "short_description": "A Cozy & Comfy Stay!",
+  "shop_name": "PRIMEBIZ",
+  "provider": "ovo",
+  "discount_detail": "Rasakan kenyamanan, pelayanan berkelas, lokasi strategis dan harga terbaik untuk Anda hanya di PrimeBiz Hotel. Dapatkan penawaran spesial untuk menginap 2 hari 1 malam di berbagai lokasi PrimeBiz Hotel berikut:",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/16/05/l/12444.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:15:09"
+}, {
+  "discountid": "",
+  "short_description": "Great Location, Unbeatable Value!",
+  "shop_name": "RED PLANET",
+  "provider": "ovo",
+  "discount_detail": "Dapatkan pengalaman menginap yang menyenangkan di Red Planet Hotel, dengan lokasi strategis di tengah kota dan tarif yang ekonomis. Nikmati pula cashback 30%  selama promo berlangsung!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/50/08/l/12574.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:15:12"
+}, {
+  "discountid": "",
+  "short_description": "Healthy Beautiful Skin",
+  "shop_name": "NATASHA SKIN CARE",
+  "provider": "ovo",
+  "discount_detail": "Percayakan perawatan kulitmu pada Natasha Skin Care dan dapatkan kemudahan serta keuntungan tiap transaksi menggunakan OVO!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/70/46/l/13954.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "25 Sep 2020",
+  "created_at": "2019-03-22 04:15:16"
+}, {
+  "discountid": "",
+  "short_description": "Have a Comfortable Stay Anytime",
+  "shop_name": "Swiss Belinn",
+  "provider": "ovo",
+  "discount_detail": "Semakin nyaman menginap di Swiss-Belinn Simatupang, Cashback 20%.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/39/57/l/14307.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Jul 2019",
+  "created_at": "2019-03-22 04:15:19"
+}, {
+  "discountid": "",
+  "short_description": "Sleep Well and Sweet Dreams",
+  "shop_name": "GOLDEN TULIP PASSER BAROE",
+  "provider": "ovo",
+  "discount_detail": "Quality rest, quality time menginap Golden Tulip Passer Baroe, Cashback 20%.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/39/58/l/14339.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Jul 2019",
+  "created_at": "2019-03-22 04:15:22"
+}, {
+  "discountid": "",
+  "short_description": "Special Price for Haircut",
+  "shop_name": "Christopher Salon",
+  "provider": "ovo",
+  "discount_detail": "Bosan dengan model rambut yang itu-itu saja? Ke Christopher Salon yuk! Kamu bisa gunting rambut cuma Rp22.000 (harga normal Rp60.000).",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/15/15/l/16655.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:15:26"
+}, {
+  "discountid": "",
+  "short_description": "Beef Ontama Bukkake",
+  "shop_name": "HANAMARU UDON",
+  "provider": "ovo",
+  "discount_detail": "Beef Ontama Bukkake hanya Rp29.000? Makanya ke Hanamaru Udon. Makan kenyang & lengkap lebih hemat cukup #pakeOVOaja! Harga normal Rp56.000. ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/32/36/l/16879.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Apr 2019",
+  "created_at": "2019-03-22 04:15:29"
+}, {
+  "discountid": "",
+  "short_description": "Tas Cantik untuk Sehari-hari",
+  "shop_name": "Matahari Department Store",
+  "provider": "ovo",
+  "discount_detail": "Tukarkan OVO Points kamu dengan tas cantik di Matahari Department Store! Ayo beli Deals-nya & kunjungi outlet terdekat. ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/44/26/l/17132.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:15:32"
+}, {
+  "discountid": "",
+  "short_description": "Camera, Roll, Cashback!",
+  "shop_name": "Cinemaxx",
+  "provider": "ovo",
+  "discount_detail": "Nggak mau ketinggalan banyak film seru Maret ini? Yuk ke Cinemaxx dan dapatkan Cashback 50%.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/86/27/l/17190.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:15:36"
+}, {
+  "discountid": "",
+  "short_description": "Freshly Baked Daily",
+  "shop_name": "Tous Les Jours",
+  "provider": "ovo",
+  "discount_detail": "Belanja berbagai macam roti & pastry jadi lebih hemat di Tous les Jours dengan OVO. Cukup #pakeOVOaja kamu bisa dapatkan cashback 20%!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/62/29/l/17282.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Apr 2019",
+  "created_at": "2019-03-22 04:15:39"
+}, {
+  "discountid": "",
+  "short_description": "Voucher Value Rp 50.000",
+  "shop_name": "TOKYO 1 STORE",
+  "provider": "ovo",
+  "discount_detail": "Belanja berbagai kebutuhan rumah Anda serta dekorasi unik di Tokyo 1 lebih hemat dengan OVO! Cukup #pakeOVOaja kamu bisa dapatkan voucher senilai Rp 50.000 hanya Rp 25.000. Yay!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/11/31/l/17379.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:15:42"
+}, {
+  "discountid": "",
+  "short_description": "Say Yes to Staycation",
+  "shop_name": "Horison Hotels Group",
+  "provider": "ovo",
+  "discount_detail": "Me time atau family time dengan Staycation di Hotel Horison kini semakin menyenangkan dengan Cashback 15%. ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/10/33/l/17490.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "24 May 2019",
+  "created_at": "2019-03-22 04:15:46"
+}, {
+  "discountid": "",
+  "short_description": "Don't Worry Drive Happy!",
+  "shop_name": "ASURANSI RAKSA",
+  "provider": "ovo",
+  "discount_detail": "Percayakan keamanan mobil kesayangan kamu dengan Asuransi Raksa, yuk! Berkendara kemana aja jadi lebih aman dan nyaman!\nBayar tagihannya cukup #pakeOVOaja karena kamu bisa dapatkan tambahan diskon 10%.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/87/59/l/14387.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Dec 2019",
+  "created_at": "2019-03-22 04:15:49"
+}, {
+  "discountid": "",
+  "short_description": "Lezat Sampai Tulangnya",
+  "shop_name": "Ayam Tulang Lunak Hayam W",
+  "provider": "ovo",
+  "discount_detail": "Santap sendiri atau bersama? Nikmati Paket Lunak Crispy, Sambal Bawang, atau Sambal Matah hanya 20rb Cukup #pakeOVOaja.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/62/06/l/16250.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Mar 2019",
+  "created_at": "2019-03-22 04:15:53"
+}, {
+  "discountid": "",
+  "short_description": "Voucher Value Rp100.000",
+  "shop_name": "Classified",
+  "provider": "ovo",
+  "discount_detail": "Makan malam di Classified yuk! Diskon 30% dengan voucher senilai Rp100.000. Berbagai pilihan pasta, salad, soup atau dessert menantimu.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/02/16/l/16595.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:15:56"
+}, {
+  "discountid": "",
+  "short_description": "Discount 50% Half Baby/Beef Ribs",
+  "shop_name": "Applebees",
+  "provider": "ovo",
+  "discount_detail": "Suka daging merah? Yuk ke Applebee\u2019s! Ada diskon 50% untuk Half Baby / Beef Ribs loh! Cukup #pakeOVOaja hanya Rp150.000 (harga normal Rp300.000).",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/67/18/l/16819.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:15:59"
+}, {
+  "discountid": "",
+  "short_description": "Special Price Deluxe Room",
+  "shop_name": "SWISS BELHOTEL",
+  "provider": "ovo",
+  "discount_detail": "Menginap di Deluxe Room hanya Rp 525.000? Cukup #pakeOVOaja & beli vouchernya!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/90/18/l/16826.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Apr 2019",
+  "created_at": "2019-03-22 04:16:03"
+}, {
+  "discountid": "",
+  "short_description": "Laser Underarm Hair Removal",
+  "shop_name": "DE HAIR",
+  "provider": "ovo",
+  "discount_detail": "Tingkatkan percaya diri dengan perawatan Laser Underarm Hair Removal dari De Hair. Cukup #pakeOVOaja hanya Rp299.900 dari harga normal Rp690.000.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/91/27/l/17191.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "11 Apr 2019",
+  "created_at": "2019-03-22 04:16:06"
+}, {
+  "discountid": "",
+  "short_description": "Photo Facial",
+  "shop_name": "DE HAIR",
+  "provider": "ovo",
+  "discount_detail": "Dengan perawatan photo facial, kamu bisa memperbaiki bekas jerawat, pori-pori yang membesar atau kulit kusam. Berbeda dengan facial biasa yang lazim dikenal, photo facial menggunakan sinar gelombang yang tidak setajam laser & bukan mengeluarkan komedo saja. Selesai perawatan, wajah langsung glowing. Wow!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/07/28/l/17195.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "15 Apr 2019",
+  "created_at": "2019-03-22 04:16:10"
+}, {
+  "discountid": "",
+  "short_description": "Monday 50% off Regular Size",
+  "shop_name": "Maxx Coffee",
+  "provider": "ovo",
+  "discount_detail": "Setiap Senin, wajib ke Maxx Coffee! Beli minuman size Regular apa saja diskon 50% pakai OVO. Wow! ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/68/29/l/17284.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Jun 2019",
+  "created_at": "2019-03-22 04:16:13"
+}, {
+  "discountid": "",
+  "short_description": "Perfect Cup of Coffee to Start Your Day",
+  "shop_name": "Maxx Coffee",
+  "provider": "ovo",
+  "discount_detail": "Nikmati Caramel Macchiato kesayangan kamu setiap hari supaya semangat menjalani aktivitas sehari-hari. Cukup #pakeOVOaja kamu bisa dapatkan semua jenis minuman berbasis kopi hanya Rp 26.000 di Maxx Coffee.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/80/29/l/17292.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Jun 2019",
+  "created_at": "2019-03-22 04:16:16"
+}, {
+  "discountid": "",
+  "short_description": "Diskon 35% 24K Gold Glowing Galvanic Spa",
+  "shop_name": "LA DIANA",
+  "provider": "ovo",
+  "discount_detail": "Dapatkan diskon 35% untuk 24K Gold Glowing Galvanic Spa Facial dengan Face Acupressure, Signature Eye & Neck Treatment. Cukup #pakeOVOaja hanya Rp420.000 (harga normal Rp645.000).",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/63/32/l/17463.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "14 Apr 2019",
+  "created_at": "2019-03-22 04:16:20"
+}, {
+  "discountid": "",
+  "short_description": "Diskon 33% Premium Face Lifting",
+  "shop_name": "LA DIANA",
+  "provider": "ovo",
+  "discount_detail": "Dapatkan diskon 33% untuk Premium Face Lifting dengan Signature Eye & Neck Treatment selama 65 menit. Cukup #pakeOVOaja hanya Rp399.000 (harga normal Rp595.000).",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/70/32/l/17466.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "14 Apr 2019",
+  "created_at": "2019-03-22 04:16:23"
+}, {
+  "discountid": "",
+  "short_description": "Disc. 30% Terang Bulan Almond Choco Chip",
+  "shop_name": "HOLLAND",
+  "provider": "ovo",
+  "discount_detail": "Mau ngemil yang manis-manis? Beli martabak Terang Bulan Biasa Besar Almond Choco Chip dari Holland aja! Cukup #pakeOVOaja hanya Rp84.000 (harga normal Rp120.000).",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/47/36/l/17639.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:16:26"
+}, {
+  "discountid": "",
+  "short_description": "Disc. 30% Terang Bulan Pandan Keju",
+  "shop_name": "HOLLAND",
+  "provider": "ovo",
+  "discount_detail": "Beli martabak yuk buat sharing bersama keluarga. Dapatkan martabak Terang Bulan Biasa Besar Pandan Keju dari Holland hanya Rp63.000 (harga normal Rp90.000).",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/95/36/l/17643.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:16:30"
+}, {
+  "discountid": "",
+  "short_description": "Disc. 30% Pandan Sarikaya Keju",
+  "shop_name": "HOLLAND",
+  "provider": "ovo",
+  "discount_detail": "Suka pandan, srikaya & keju? Cobain martabak Terang Bulan Biasa Besar Pandan Sarikaya Keju dari Holland. Cukup #pakeOVOaja hanya Rp70.000 (harga normal Rp100.000).",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/88/36/l/17650.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:16:33"
+}, {
+  "discountid": "",
+  "short_description": "Disc. 30% Terang Bulan Pandan Sarikaya",
+  "shop_name": "HOLLAND",
+  "provider": "ovo",
+  "discount_detail": "Suka yang manis? Jajan martabak Terang Bulan Biasa Besar Pandan Sarikaya dari Holland yuk. Cukup #pakeOVOaja hanya Rp66.500 lho. Harga normal Rp95.000.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/79/36/l/17658.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:16:36"
+}, {
+  "discountid": "",
+  "short_description": "A Peaceful Place to Relax!",
+  "shop_name": "PONDOK SARI HOTEL",
+  "provider": "ovo",
+  "discount_detail": "Temukan dan rasakan kenyamanan akomodasi yang menyuguhkan suasana resort tropis yang sejuk di Kuta Bali dengan harga terjangkau. Nikmati penawaran spesial untuk menginap di Superior Room selama 3 hari 2 malam dengan harga Rp500.000 dan dapatkan keuntungan sebagai berikut:\n- Daily breakfast\n- Free fried rice untuk 2 orang (Seharga Rp80.000 untuk 2 pax)\n- Free WiFi",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/34/03/l/12382.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "24 Dec 2019",
+  "created_at": "2019-03-22 04:16:40"
+}, {
+  "discountid": "",
+  "short_description": "Delicious Cakes & Tarts",
+  "shop_name": "MONIQUES",
+  "provider": "ovo",
+  "discount_detail": "Dapatkan diskon 10% + cashback 10% dari OVO setiap pembelian di Monique's Cake. ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/31/56/l/14275.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "29 Jul 2019",
+  "created_at": "2019-03-22 04:16:43"
+}, {
+  "discountid": "",
+  "short_description": "3D2N: Take a Break & Relax in Bali",
+  "shop_name": "RAMA CANDIDASA RESORT&SPA",
+  "provider": "ovo",
+  "discount_detail": "Mau berlibur? Ke Bali yuk! Cukup #pakeOVOaja, menginap 3 hari 2 malam di Superior Garden Room Rama Candidasa hanya Rp 3.000.000! Harga normal Rp 3.700.000. ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/95/87/l/15402.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:16:46"
+}, {
+  "discountid": "",
+  "short_description": "Eco-friendly dry cleaning",
+  "shop_name": "OXXO CARE CLEANERS",
+  "provider": "ovo",
+  "discount_detail": "Detail\nNggak cuma bersih, dry-cleaning di OXXO juga ramah lingkungan lho! Kamu juga bisa ambil cucianmu 24/7 tanpa tambahan biaya. Tak sempat cuci pakaian kesayanganmu? Bawa ke OXXO dan nikmati cashback hingga 10%.\n  LOKASI OUTLET :\n  Jln. HR Muhammad No. 57, Surabaya\nJln. Pakuwon City AA1 No. 6, Mulyorejo, Surabaya\nJln. Raya Diponegoro No. 91C, Surabaya\nJln. Kertajaya No. 159, Surabaya\nJln. Thamrin No. 2/D3, Sidoarjo\nJln. Gunung Latimojong No. 225, Makassar\nJln. Boulevard Masale, Makassar\nThe Breeze BSD City\nEpicentrum Walk, Jln. HR. Rasuna Said\nJln. Sultan Iskandar, Jakarta Selatan\n ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/83/89/l/15499.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:16:50"
+}, {
+  "discountid": "",
+  "short_description": "A Great Place For Family Fun",
+  "shop_name": "Waterboom Lippo Cikarang",
+  "provider": "ovo",
+  "discount_detail": "Liburan? Yuk renang dan seru-seruan di berbagai wahana air bersama keluarga di Waterboom Cikarang. Cukup #pakeOVOaja dan dapatkan diskon 25% untuk harga tiket masuk.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/70/94/l/15734.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Dec 2019",
+  "created_at": "2019-03-22 04:16:54"
+}, {
+  "discountid": "",
+  "short_description": "Plan your next vacation",
+  "shop_name": "HOTEL CITRADREAM",
+  "provider": "ovo",
+  "discount_detail": "Apakah Cirebon, Bandung, Semarang, Yogyakarta, dan Jakarta jadi salah satu target jalan-jalanmu di 2019? Nggak perlu bingung cari penginapan, karena Cukup #pakeOVOaja Kamu bisa dapatkan Diskon hingga 50% di CitraDream Hotel.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/76/00/l/15996.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Jun 2019",
+  "created_at": "2019-03-22 04:16:58"
+}, {
+  "discountid": "",
+  "short_description": "1 Main Course + 1 Drink + Free Dessert",
+  "shop_name": "MARVELLICIOUS FOODCOURT",
+  "provider": "ovo",
+  "discount_detail": "Makan lengkap + minuman + dessert hanya Rp60.000 di Marvellicious Foodcourt? Cukup #pakeOVOaja !",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/31/09/l/16375.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:17:01"
+}, {
+  "discountid": "",
+  "short_description": "6 Porsi Dim Sum",
+  "shop_name": "CAFE MIE PEDES JUARA",
+  "provider": "ovo",
+  "discount_detail": "Makan Dim Sum yuk! Di Mie Pedas Juara, kamu bias dapatkan 6 porsi Dim Sum jenis apa saja hanya Rp99.000 dengan OVO.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/99/09/l/16415.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Jun 2019",
+  "created_at": "2019-03-22 04:17:05"
+}, {
+  "discountid": "",
+  "short_description": "Paket Makan Berdua",
+  "shop_name": "CAFE MIE PEDES JUARA",
+  "provider": "ovo",
+  "discount_detail": "Dapatkan harga spesial untuk makan berdua Mie Pedas Juara cukup #pakeOVOaja !",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/04/10/l/16416.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Jun 2019",
+  "created_at": "2019-03-22 04:17:08"
+}, {
+  "discountid": "",
+  "short_description": "Paket Makan Berempat",
+  "shop_name": "CAFE MIE PEDES JUARA",
+  "provider": "ovo",
+  "discount_detail": "Makan berempat di Mie Pedas Juara lebih hemat! Hanya Rp192.000 (harga normal Rp322.000) kamu & teman-teman bias mendapatkan:",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/10/10/l/16418.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Jun 2019",
+  "created_at": "2019-03-22 04:17:11"
+}, {
+  "discountid": "",
+  "short_description": "Full Body Relaxation Massage (135 menit)",
+  "shop_name": "OMAH SPA",
+  "provider": "ovo",
+  "discount_detail": "Tenangkan pikiran & relaksasi sejenak dengan Full Body Relaxation Massage dari Omah Spa. Untuk treatment selama 135 menit, hanya Rp100.000 di OVO!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/55/11/l/16483.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:17:15"
+}, {
+  "discountid": "",
+  "short_description": "6 porsi Selected Menu",
+  "shop_name": "J-SUSHI",
+  "provider": "ovo",
+  "discount_detail": "Berbagai varian sushi bisa kamu coba tapi tetap hemat? Ke J Sushi aja! Dapatkan 6 porsi hanya Rp168.000 cukup #pakeOVOaja. Harga normal Rp300.000.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/38/12/l/16526.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Jun 2019",
+  "created_at": "2019-03-22 04:17:18"
+}, {
+  "discountid": "",
+  "short_description": "Paket Makan Berdua",
+  "shop_name": "J-SUSHI",
+  "provider": "ovo",
+  "discount_detail": "Ajak si Dia ke J Sushi yuk! Ada Paket Makan Berdua yang lengkap sampai dessert. Cukup #pakeOVOaja hanya Rp128.000 (harga normal Rp215.000).",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/59/12/l/16539.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Jun 2019",
+  "created_at": "2019-03-22 04:17:21"
+}, {
+  "discountid": "",
+  "short_description": "Voucher Value Rp100.000",
+  "shop_name": "The Duck King",
+  "provider": "ovo",
+  "discount_detail": "Ajak keluarga makan bersama yuk! Diajak ke The Duck King semua pasti suka. Berbagai menu Chinese food jadi lebih hemat dengan voucher senilai Rp100.000 yang bisa kamu beli cukup dengan Rp80.000 saja.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/02/14/l/16598.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:17:25"
+}, {
+  "discountid": "",
+  "short_description": "Pasar Senggol Lunch Buffet",
+  "shop_name": "ORYZA RESTAURANT",
+  "provider": "ovo",
+  "discount_detail": "Ajak keluarga makan siang bareng? Ke Oryza Restaurant aja di The Alana Hotel. Paket Lunch Buffet untuk 1 orang hanya Rp70.000 untuk menikmati lebih dari 60 varian menu. Wow!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/20/15/l/16660.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:17:28"
+}, {
+  "discountid": "",
+  "short_description": "Around The World Dinner Buffet",
+  "shop_name": "ORYZA RESTAURANT",
+  "provider": "ovo",
+  "discount_detail": "Mau mencicipi citarasa dari berbagai negara sekaligus? Cobain Around the World Dinner Buffet di the Oryza Restaurant, The Alana Hotel yuk. Paket Diner Buffet untuk 1 orang hanya Rp80.000 untuk menikmati lebih dari 60 varian menu. Wow!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/26/15/l/16662.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:17:31"
+}, {
+  "discountid": "",
+  "short_description": "Formulir Pendaftaran S1 FK",
+  "shop_name": "UPH",
+  "provider": "ovo",
+  "discount_detail": "Daftar kuliah di UPH? Beli formulir pendaftaran S1 Fakultas Kedokteran lewat OVO & daftar online aja! Cuma Rp 600.000 dari harga normal Rp 750.000.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/51/16/l/16719.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Jun 2019",
+  "created_at": "2019-03-22 04:17:35"
+}, {
+  "discountid": "",
+  "short_description": "3D2N Deluxe Room",
+  "shop_name": "SWISS BELHOTEL",
+  "provider": "ovo",
+  "discount_detail": "Penat bekerja? Ambil cuti buat santai sejenak ke Bali aja. Menginap di SwissbelHotel selama 3 hari 2 malam di Deluxe Room hanya Rp 1.525.000 (harga normal Rp 2.150.000).",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/42/20/l/16898.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Jun 2019",
+  "created_at": "2019-03-22 04:17:38"
+}, {
+  "discountid": "",
+  "short_description": "Scaling",
+  "shop_name": "JES CLINIC",
+  "provider": "ovo",
+  "discount_detail": "Berikan gigikamu perawatan terbaik, karena kesehatan gigi yang baik dapat meningkatkan kesehatan secara keseluruhan dan juga  terhindar dari penyakit. Cukup #pakeOVOaja hanya Rp149.000 untuk Scaling regular di Klinik Gigi Jes Clinic (harga normal Rp350.000).",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/32/26/l/17128.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Apr 2019",
+  "created_at": "2019-03-22 04:17:41"
+}, {
+  "discountid": "",
+  "short_description": "Hydrating Facial",
+  "shop_name": "JES CLINIC",
+  "provider": "ovo",
+  "discount_detail": "Dapatkan perawatan Hydrating Facial (5 in 1 treatment: Cleansing + Ekstraksi Komedo + High Frekuensi + Massage wajah + Masker) hanya Rp50.000 saja. Wow!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/39/26/l/17131.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Apr 2019",
+  "created_at": "2019-03-22 04:17:46"
+}, {
+  "discountid": "",
+  "short_description": "Hydrating Facial",
+  "shop_name": "JESSLYN MEDICAL CENTER",
+  "provider": "ovo",
+  "discount_detail": "Dapatkan perawatan Hydrating Facial (5 in 1 treatment: Cleansing + Ekstraksi Komedo + High Frekuensi + Massage wajah + Masker) hanya Rp50.000 saja. Wow!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/51/26/l/17135.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Apr 2019",
+  "created_at": "2019-03-22 04:17:49"
+}, {
+  "discountid": "",
+  "short_description": "Medical Check Up Kolesterol",
+  "shop_name": "JESSLYN MEDICAL CENTER",
+  "provider": "ovo",
+  "discount_detail": "Dapatkan pemeriksaan Medical Check Up Kolesterol Lengkap (Kolesterol Total, HDL, LDL, Trigliserida) hanya Rp195.000 (harga normal Rp312.000).",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/64/26/l/17140.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Apr 2019",
+  "created_at": "2019-03-22 04:17:52"
+}, {
+  "discountid": "",
+  "short_description": "Buy 1 Get 1 Puas SET A",
+  "shop_name": "LOTTERIA",
+  "provider": "ovo",
+  "discount_detail": "Makan berdua lebih hemat di Lotteria, dapatkan 2 Puas Set A di Lotteria hanya Rp37.000 di OVO!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/26/27/l/17152.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:17:56"
+}, {
+  "discountid": "",
+  "short_description": "Buy 1 Get 1 Puas SET B",
+  "shop_name": "LOTTERIA",
+  "provider": "ovo",
+  "discount_detail": "Ngidam makan Ayam Spicy dari Lotteria? Yuk ajak satu teman kamu & nikmati buy 1 get 1 Puas Set B. Cukup #pakeOVOaja hanya Rp38.000!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/31/27/l/17160.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:17:59"
+}, {
+  "discountid": "",
+  "short_description": "Buy 1 Get 1 Puas SET C",
+  "shop_name": "LOTTERIA",
+  "provider": "ovo",
+  "discount_detail": "Traktir makan teman chicken buldak di Lotteria yuk! Buy 1 get 1 Puas Set C hanya Rp40.000 cukup #pakeOVOaja  ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/20/27/l/17164.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:18:03"
+}, {
+  "discountid": "",
+  "short_description": "Special Price Clothing",
+  "shop_name": "A&R FASHION",
+  "provider": "ovo",
+  "discount_detail": "Bosan dengan pilihan baju yang itu-itu saja? Lagi ada promo special clothing di A&R Fashion lho. Cukup #pakeOVOaja hanya Rp15.000!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/79/27/l/17187.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:18:06"
+}, {
+  "discountid": "",
+  "short_description": "Jajan Tahu Pong yuk!",
+  "shop_name": "SAOENK KITO",
+  "provider": "ovo",
+  "discount_detail": "Penikmat olahan tahu? Yuk cobain renyah & gurihnya tahu pong cuma Rp1 cukup #pakeOVOaja",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/19/30/l/17315.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:18:09"
+}, {
+  "discountid": "",
+  "short_description": "60% off Selected Drinks",
+  "shop_name": "REKARASA",
+  "provider": "ovo",
+  "discount_detail": "Mau hang out rame-rame yang fancy tapi tetap irit? Ke Rekarasa aja! Ada berbagai pilihan minuman hanya Rp7.000 cukup #pakeOVOaja. Harga normal Rp18.000.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/86/35/l/17626.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "20 Apr 2019",
+  "created_at": "2019-03-22 04:18:13"
+}, {
+  "discountid": "",
+  "short_description": "Hop Hop Voucher Value Rp 23.000",
+  "shop_name": "GIFTN",
+  "provider": "ovo",
+  "discount_detail": "Hop Hop merupakan minuman manis dengan komposisi bubble yang gak asal manis aja, tapi bisa bikin ceria juga dengan rasa-rasanya yang seru. Minuman asik buat nemenin aktifitas sehari-hari.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/47/37/l/17675.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "12 Jun 2019",
+  "created_at": "2019-03-22 04:18:16"
+}, {
+  "discountid": "",
+  "short_description": "KFC Voucher Value Rp50.000",
+  "shop_name": "GIFTN",
+  "provider": "ovo",
+  "discount_detail": "Semua suka KFC! Kamu sekarang bisa makan KFC lebih hemat dengan voucher senilai Rp50.000, hanya Rp43.500 di OVO! ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/28/38/l/17716.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "12 Jun 2019",
+  "created_at": "2019-03-22 04:18:19"
+}, {
+  "discountid": "",
+  "short_description": "KFC Voucher Value Rp100.000",
+  "shop_name": "GIFTN",
+  "provider": "ovo",
+  "discount_detail": "Semua suka KFC! Kamu sekarang bisa makan KFC lebih hemat dengan voucher senilai Rp100.000, hanya Rp87.000 di OVO! ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/35/38/l/17719.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "12 Jun 2019",
+  "created_at": "2019-03-22 04:18:23"
+}, {
+  "discountid": "",
+  "short_description": "Dari LV Karawaci ke Banyak Tujuan!",
+  "shop_name": "BUS ROYAL PLATINUM",
+  "provider": "ovo",
+  "discount_detail": "Bus Royal Platinum siap mengantarkanmu ke tempat tujuan. Lebih ekonomis pake OVO aja, cuma bayar Rp25.000!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/83/63/l/10851.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:18:26"
+}, {
+  "discountid": "",
+  "short_description": "Belanja di Fave, #pakeOVOaja",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Sekarang bayar deals Fave lebih praktis pake OVO aja!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/23/11/l/12703.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Dec 2019",
+  "created_at": "2019-03-22 04:18:30"
+}, {
+  "discountid": "",
+  "short_description": "Karaoke Murah Suka-Suka",
+  "shop_name": "INUL VIZTA",
+  "provider": "ovo",
+  "discount_detail": "Yuk ajak teman-temanmu Karaoke rame-rame di Inul Vizta dan dapatkan diskon 50%  dari OVO",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/92/68/l/14624.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "25 Apr 2019",
+  "created_at": "2019-03-22 04:18:34"
+}, {
+  "discountid": "",
+  "short_description": "Glowing Treatment + Free Konsultasi",
+  "shop_name": "Shiny Care",
+  "provider": "ovo",
+  "discount_detail": "Glowing Treatment merupakan perawatan pada kulit wajah dengan menggunakan 3 treatment sekaligus: Facial Mikrodermabrasi + Intense Pulse Light + pemberian serum dengan alat khusus serta oksigen pada kulit wajah. Dengan durasi pengerjaan +/- 90 menit pada kulit wajah akan memberikan hasil wajah cerah dan glowing seketika.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/20/76/l/14820.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Apr 2019",
+  "created_at": "2019-03-22 04:18:37"
+}, {
+  "discountid": "",
+  "short_description": "Special Price Deluxe Room",
+  "shop_name": "RAMAYANA RESORT & SPA",
+  "provider": "ovo",
+  "discount_detail": " Dapatkan harga diskon Rp 2.145.000 dari harga normal Rp 2.520.000 untuk kamar Deluxe di Ramayana Resort & Spa!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/99/95/l/15787.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 May 2019",
+  "created_at": "2019-03-22 04:18:41"
+}, {
+  "discountid": "",
+  "short_description": "Protection for You & Your Loved Ones",
+  "shop_name": "MyProtection",
+  "provider": "ovo",
+  "discount_detail": "Perlindungan lengkap untuk Anda dan keluarga mulai dari perlindungan rumah, perlindungan mobil, perlindungan kecelakaan diri, perlindungan perjalanan hingga perlindungan kesehatan.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/36/14/l/16616.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Dec 2019",
+  "created_at": "2019-03-22 04:18:44"
+}, {
+  "discountid": "",
+  "short_description": "Formulir Pendaftaran S1 Non FK",
+  "shop_name": "UPH",
+  "provider": "ovo",
+  "discount_detail": "Daftar kuliah di UPH? Beli formulir pendaftaran S1 non Fakultas Kedokteran lewat OVO & daftar online aja! Cuma Rp 320.000 dari harga normal Rp 400.000.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/36/16/l/16712.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Jun 2019",
+  "created_at": "2019-03-22 04:18:47"
+}, {
+  "discountid": "",
+  "short_description": "2D1N Deluxe Room",
+  "shop_name": "ROYALTULIP SPRINGHILL FO",
+  "provider": "ovo",
+  "discount_detail": "Habiskan waktu di Royal Tulip Springhill, Jimbaran saat ke berlibur ke Bali yuk. Kamu bisa menginap di Deluxe Room hanya Rp 1.200.000 (harga normal Rp 2.000.000).",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/48/19/l/16856.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "14 Jul 2019",
+  "created_at": "2019-03-22 04:18:51"
+}, {
+  "discountid": "",
+  "short_description": "Single Scoop + Float 12 Oz All Variant",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nSemua orang cinta dessert! Spesial cuma untuk kamu Baskin Robbins hadir di Fave. Baskin Robbins menawarkan menu dessert yang tentunya bisa menemanimu saat waktu senggang tiba. Kamu bisa mendapatkan Paket Single Scoop dan Float 12 Oz All Variant (Chocolate/Coffee/Mocha/Avocado/Strawberry/Green Tea). Sensasi rasa manis, lembut, segar yang tepat siap mengajakmu untuk menikmati hari.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/66/28/l/17222.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Mar 2019",
+  "created_at": "2019-03-22 04:18:55"
+}, {
+  "discountid": "",
+  "short_description": "Bleaching",
+  "shop_name": "PONDOK GIGI",
+  "provider": "ovo",
+  "discount_detail": "Tampil lebih percaya diri dengan gigi putih bersih. Bleaching gigi di Pondok Gigi sekarang hanya Rp 2.500.000 cukup #pakeOVOaja",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/24/30/l/17320.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "19 Apr 2019",
+  "created_at": "2019-03-22 04:18:58"
+}, {
+  "discountid": "",
+  "short_description": "An Affordable Luxury Experience",
+  "shop_name": "RAMA GARDEN HOTEL",
+  "provider": "ovo",
+  "discount_detail": "Rasakan kemewahan terjangkau di pusat keramaian Legian bersama Rama Garden Hotel dengan pelayanan yang istimewa. Dapatkan penawaran spesial untuk menginap di Deluxe Studio (Second Floor) selama 3 hari 2 malam dengan harga Rp1.400.000 dan nikmati keuntungan sebagai berikut:\n- Daily breakfast\n- Free welcome drink\n- Free daily mineral water\n- Free 1 pizza (Seharga IDR 100.000 ++)\n- Free WiFi\n- 10% discount at Rama Garden Restaurant & Ambiente Spa",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/88/02/l/12368.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "24 Dec 2019",
+  "created_at": "2019-03-22 04:19:01"
+}, {
+  "discountid": "",
+  "short_description": "Facial + Totok Wajah",
+  "shop_name": "Shiny Care",
+  "provider": "ovo",
+  "discount_detail": "Perawatan facial kulit wajah yang berfokus pada titik-titik akupuntur pada wajah yang memberikan relaksasi, dalam durasi +/- 90 menit perawatan ini akan memberikan hasil berupa kulit terlihat segar dan lebih cerah.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/22/77/l/14823.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Apr 2019",
+  "created_at": "2019-03-22 04:19:05"
+}, {
+  "discountid": "",
+  "short_description": "Bleaching Kilat",
+  "shop_name": "HARVEST DENTAL CARE",
+  "provider": "ovo",
+  "discount_detail": "Bikin senyummu makin hidup! Bleaching kilat di Harvest Care yuk, cukup #pakeOVOaja!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/39/88/l/15415.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:19:08"
+}, {
+  "discountid": "",
+  "short_description": "Protect Your Vision",
+  "shop_name": "OPTIK BUNAKEN",
+  "provider": "ovo",
+  "discount_detail": "Mata sering lelah bisa jadi indikasi terlalu banyak terpapar radiasi baik dari layar gadget atau sehari-hari. Yuk, lindungi matamu! Pakai OVO dan dapatkan lensa Anti Blue Light (meminimalisir radiasi gadget) hanya 400rb atau lensa Infrared Blocker (meminimalisir radiasi sehari-hari) dengan diskon 30% cukup #pakeOVOaja",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/48/96/l/15812.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Mar 2019",
+  "created_at": "2019-03-22 04:19:11"
+}, {
+  "discountid": "",
+  "short_description": "Superior Room Swiss Belinn Legian",
+  "shop_name": "Swiss Belinn",
+  "provider": "ovo",
+  "discount_detail": "Butuh liburan? Ke Bali aja & nikmati liburan dengan bersantai di Swiss-Belinn Legian. Dapatkan 2 malam di Superior Room hanya Rp 1.490.000 (harga normal Rp 2.100.000). Kamu juga bisa dapatkan:",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/95/00/l/16003.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Apr 2019",
+  "created_at": "2019-03-22 04:19:15"
+}, {
+  "discountid": "",
+  "short_description": "Buy 1 Juice Free 1 Charcoal Variant",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nLife Juice kini telah hadir di Fave! Di sana ada beragam jus yang siap menemanimu untuk bersantai dan menghabiskan waktu luang. Ada banyak menu yang bisa kamu pilih, seperti Berry, Red Dragon, dan Bamboo Charcoal. Tidak hanya itu, semua minuman segar dan sehat tersebut bisa kamu dapatkan dengan promo Buy 1 Get 1 dengan varian gratisnya berupa Charcoal.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/60/15/l/16680.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "06 Apr 2019",
+  "created_at": "2019-03-22 04:19:18"
+}, {
+  "discountid": "",
+  "short_description": "Fried Chicken + Shaky French Fries",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nMOR Store kini hadir di Fave, berlokasi di lokasi strategis yang mudah dijangkau membuat MOR Store menjadi pilihan mudah untuk menemani makan siang ataupun makan malam Anda. Dalam promo ini Anda bisa mendapatkan menu pilihan, seperti Rangers Super Crispy Fried Chicken dan Shaky French Fries untuk 1 orang. Penawaran ini bisa Anda nikmati tanpa harus melakukan reservasi terlebih dahulu.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/56/17/l/16756.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "11 Apr 2019",
+  "created_at": "2019-03-22 04:19:22"
+}, {
+  "discountid": "",
+  "short_description": "L\u2019Oreal Series Expert Hair Treatment",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nJadikan rambut Anda lebih tampil sempurna dengan penawaran yang diberikan oleh Haircode, di mana Anda bisa memberikan perawatan pada rambut Anda dengan promo, L\u2019Oreal Series Expert Hair Treatment di mana, Anda akan mendapatkan treatment yang sesuai dengan permasalahan yang terjadi pada rambut Anda.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/28/18/l/16796.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "11 Apr 2019",
+  "created_at": "2019-03-22 04:19:26"
+}, {
+  "discountid": "",
+  "short_description": "Beef Aglio Olio + Lemonade / Lemon Tea",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nPerut kenyang dengan makan enak tanpa harus bikin dompet kering! Nikmati paket makan Beef Aglio Olio dari Pepper Lunch. Dengan membeli vouchernya di Fave, kamu akan mendapatkan 1 porsi Beef Aglio Olio dan 1 Lemon Tea / Lemonade dengan harga yang lebih murah. Jadi, kamu nggak perlu khawatir lagi deh dompet menipis di akhir bulan!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/79/22/l/16979.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "20 Apr 2019",
+  "created_at": "2019-03-22 04:19:29"
+}, {
+  "discountid": "",
+  "short_description": "Paket Makan Bento untuk 2 Orang",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nMakan berdua lebih hemat! Ajak teman, kerabat, pacar atau siapapun kenalan kamu untuk makan berdua di Chick 'n Roll. Dengan membeli paket Bento Rice di aplikasi Fave, kamu bisa dapat 2 menu pilihan dengan 2 minuman yang harganya pas di kantong. Kamu juga enggak perlu khawatir, karena semua produk yang disediakan oleh Chick 'n Roll dijamin sehat, dimasak tanpa MSG dan marinasi. Perut kenyang, dompet tenang!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/04/24/l/17024.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "22 Apr 2019",
+  "created_at": "2019-03-22 04:19:33"
+}, {
+  "discountid": "",
+  "short_description": "Paket Berdua: Chicken Bites Festival",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nMakan berdua lebih hemat! Ajak teman, kerabat, pacar atau siapapun kenalan kamu untuk makan berdua di Chick 'n Roll. Dengan membeli paket Chicken Bites Festival di aplikasi Fave, kamu bisa dapat 2 menu pilihan dengan 2 minuman yang harganya pas di kantong. Kamu juga enggak perlu khawatir, karena semua produk yang disediakan oleh Chick 'n Roll dijamin sehat, dimasak tanpa MSG dan marinasi. Perut kenyang, dompet tenang!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/11/24/l/17027.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "22 Apr 2019",
+  "created_at": "2019-03-22 04:19:36"
+}, {
+  "discountid": "",
+  "short_description": "1 Udon + 1 Curry Rice + 2 Drinks",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nChick N Roll kini hadir di Fave untuk menjadi menu makan siang dan makan malam Anda bersama keluarga dan juga kerabat terdekat. Nikmati menu berupa, 1 udon, 1 curry rice, dan juga 2 drinks. Menu yang disajikan oleh Chick N Roll menggunakan bahan baku yang fresh setiap harinya dan diolah dengan tingkat kematangan yang sesuai sehingga terasa sangat gurih dan renyah.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/16/24/l/17028.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "22 Apr 2019",
+  "created_at": "2019-03-22 04:19:40"
+}, {
+  "discountid": "",
+  "short_description": "2 Rice + 2 pc Chicken + 2 Drinks",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nChick N Roll kini hadir di Fave untuk menjadi menu makan siang dan makan malam Anda bersama keluarga dan juga kerabat terdekat. Nikmati menu berupa, 2 Crispy Chicken (drum + wing) dan juga 2 Rice. Menu yang disajikan oleh Chick N Roll menggunakan bahan baku yang fresh setiap harinya dan diolah dengan tingkat kematangan yang sesuai sehingga terasa sangat gurih dan renyah.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/24/24/l/17032.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "22 Apr 2019",
+  "created_at": "2019-03-22 04:19:44"
+}, {
+  "discountid": "",
+  "short_description": "1 Rice + 1 Chicken (Drum) + 1 Drink",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nChick N Roll kini hadir di Fave untuk menjadi menu makan siang dan makan malam Anda bersama keluarga dan juga kerabat terdekat. Nikmati menu berupa, 1 Crispy Chicken (drum) dan juga 1 Rice. Menu yang disajikan oleh Chick N Roll menggunakan bahan baku yang fresh setiap harinya dan diolah dengan tingkat kematangan yang sesuai sehingga terasa sangat gurih dan renyah.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/30/24/l/17034.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "22 Apr 2019",
+  "created_at": "2019-03-22 04:19:47"
+}, {
+  "discountid": "",
+  "short_description": "Paket Berdua: Chicken Bites Festival",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nMakan berdua lebih hemat! Ajak teman, kerabat, pacar atau siapapun kenalan kamu untuk makan berdua di Chick 'n Roll. Dengan membeli paket Chicken Bites Festival di aplikasi Fave, kamu bisa dapat 2 menu pilihan dengan 2 minuman yang harganya pas di kantong. Kamu juga enggak perlu khawatir, karena semua produk yang disediakan oleh Chick 'n Roll dijamin sehat, dimasak tanpa MSG dan marinasi. Perut kenyang, dompet tenang!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/79/28/l/17227.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "02 May 2019",
+  "created_at": "2019-03-22 04:19:51"
+}, {
+  "discountid": "",
+  "short_description": "1 Takoyaki + 1 Ocha Cold",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nUdah coba sajian takoyaki khas masakan Jepang belum? Kini Momokino hadir di Fave untuk mengajakmu merasakan kuliner dari Negeri Matahari tersebut. Sajian tersebut terdiri 1 Takoyaki dan 1 Ocha Cold. Bahan-bahan yang digunakan maupun proses pengolahannya sangat otentik sehingga kamu bisa merasakan citarasa Takoyaki yang sesungguhnya.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/03/29/l/17247.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "02 May 2019",
+  "created_at": "2019-03-22 04:19:54"
+}, {
+  "discountid": "",
+  "short_description": "Paket Makan Donburi untuk 2 Orang",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nUdah coba sajian Donburi khas masakan Jepang belum? Kini Momokino hadir di Fave untuk mengajakmu merasakan kuliner dari Negeri Matahari tersebut. Ada paket makan Donburi yang terdiri dari 1 namban Donburi, 1 Amakara Donburi, dan 2 ocha col. Bahan-bahan yang digunakan maupun proses pengolahannya sangat otentik sehingga kamu bisa merasakan citarasa Donburi yang sesungguhnya. Paket ini bisa dinikmati untuk 2 orang.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/11/29/l/17251.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "02 May 2019",
+  "created_at": "2019-03-22 04:19:58"
+}, {
+  "discountid": "",
+  "short_description": "BBQ Premium Beef and Hamburg + Drink",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nPerut kenyang dengan makan enak tanpa harus bikin dompet kering! Nikmati paket makan BBQ Premium Beef dari Pepper Lunch. Dengan membeli vouchernya di Fave, kamu akan mendapatkan 1 porsi BBQ Premium Beef dan 1 Lemon Tea / Lemonade dengan harga yang lebih murah. Jadi, kamu nggak perlu khawatir lagi deh dompet menipis di akhir bulan!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/26/29/l/17262.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "29 Apr 2019",
+  "created_at": "2019-03-22 04:20:02"
+}, {
+  "discountid": "",
+  "short_description": "Scaling",
+  "shop_name": "HARVEST DENTAL CARE",
+  "provider": "ovo",
+  "discount_detail": "Miliki gigi lebih sehat agar terhindar dari penyakit, cukup #PakeOVOaja hanya Rp149.000 untuk scaling di Harvest Dental Care, Yuk segera kunjungi outletnya!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/00/88/l/15408.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:20:05"
+}, {
+  "discountid": "",
+  "short_description": "Indulge Your Beautiful Skin",
+  "shop_name": "SDH HOUSE OF BEAUTY",
+  "provider": "ovo",
+  "discount_detail": "Dapatkan Diskon 40% senilai 500 Ribu hanya 300 Ribu untuk perawatan Premium Glowing, Rejuve, atau Detox di SDH House of Beauty. Yuk rawat kulit cantik mu, kini dan nanti!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/10/05/l/16194.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:20:08"
+}, {
+  "discountid": "",
+  "short_description": "Mazesoba / Ramen + Miso Soup + 1 Drink",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nKabuto Mazesoba kini hadir di Fave untuk memberikan Anda berbagai promo menarik khas Masakan Jepang, yaitu Mazesoba/Ramen/Curry, Miso Soup, dan Yuzu Tea/Apple Tea/Ocha. Dengan berbagai macam pilihan mazesoba seperti, Kiyomasa Mazesoba, Kensin Mazeoba, Nobusige Mazesoba. Dan juga pilihan Ramen dan Nasi lainnya, seperti Shoyu Ramen, Baitan Ramen, Chi Teri Don, Mushroom Curry Rice, dan Minced Meat Curry Rice.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/54/15/l/16674.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "06 Apr 2019",
+  "created_at": "2019-03-22 04:20:12"
+}, {
+  "discountid": "",
+  "short_description": "L\u2019Oreal Hair Coloring",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nJadikan rambut Anda lebih tampil sempurna dengan penawaran yang diberikan oleh Haircode, di mana Anda bisa memberikan perawatan pada rambut Anda dengan promo, L\u2019oreal Hair Coloring yaitu salah satu perawatan yang dapat membantu Anda untuk memberikan perubahan penampilan di rambut Anda dengan warna - warna yang cerah dan terlihat natural.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/12/18/l/16788.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "11 Apr 2019",
+  "created_at": "2019-03-22 04:20:16"
+}, {
+  "discountid": "",
+  "short_description": "Hair Cut Gold Package + Free Pomade",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nTampil dengan gaya baru dengan melakukan paket perawatan dari Brooklyn Barbershop! Kamu akan mendapatkan layanan Gold Package dengan hair stylist berpengalaman dan 1 pomade gratis dengan harga yang tentunya terjangkau. Dijamin kamu bakal makin tampan, deh.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/59/28/l/17219.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Mar 2019",
+  "created_at": "2019-03-22 04:20:19"
+}, {
+  "discountid": "",
+  "short_description": "Let's Get Foodie Woogie",
+  "shop_name": "OVO",
+  "provider": "ovo",
+  "discount_detail": "Wah bakalan kenyang nih, apalagi menu-menu favorit kumpul semua. Yuk ke Musilicious Food Festival, santap makanan kesukaanmu dan nikmati Cashback 30%.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/95/29/l/17303.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:20:23"
+}, {
+  "discountid": "",
+  "short_description": "Voucher Rp 100.000 untuk Semua Makanan",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nBisa makan banyak, enak, dan puas kini tak lagi mahal lho! Bakmi Naga Resto telah hadir di Fave untuk menjawab keinginanmu. Di sana, kamu bisa mendapatkan Voucher Senilai Rp. 100.000 untuk Semua Makanan. Bakmi Naga Resto menyajikan berbagai macam menu makanan beragam bakmi, otak-otak, ifumie, dan masih banyak lagi. Jangan sampai lewatkan kesempatan ini karena Bakmi Naga Resto memiliki sajian kuliner yang pastinya bisa memanjakan selera lidah dan perutmu!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/04/31/l/17372.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "04 May 2019",
+  "created_at": "2019-03-22 04:20:26"
+}, {
+  "discountid": "",
+  "short_description": "Nasi Urap + Ayam Penyet + Lemon Tea",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nEnggak ada yang bisa mengalahkan cita rasa kuliner khas Indonesia. Yap, untuk itu kamu harus makan menu satu ini. Ada paket spesial dari Ayam Penyet Jakarta. Paket tersebut berupa masakan Indonesia yang terdiri dari Nasi Urap Ayam Penyet / Nasi Putih Ayam Penyet dan Lemon Tea untuk 1 Orang. Semua masakan di sana diolah dengan bumbu dan rempah-rempah otentik sesuai dengan cita rasa sesungguhnya.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/19/34/l/17539.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "11 May 2019",
+  "created_at": "2019-03-22 04:20:30"
+}, {
+  "discountid": "",
+  "short_description": "Chicken Katsu Curry Udon + Abura Udon",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nSudah pernah coba Chicken Katsu Curry Udon dan Abura Udon? Sajian mie otentik khas Jepang dari Marugame Udon kini hadir di Fave untuk mengajak kamu merasakan kuliner dari Negeri Matahari. Bahan-bahan yang digunakan maupun proses pengolahannya sangat fresh, berkualitas tinggi standard Jepang, serta otentik sehingga kamu bisa merasakan citarasa Chicken Katsu Curry Udon dan Abura Udon seperti di negara asalnya.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/15/38/l/17703.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "25 Mar 2019",
+  "created_at": "2019-03-22 04:20:33"
+}, {
+  "discountid": "",
+  "short_description": "Feel the Pleasure in Your Skin",
+  "shop_name": "SDH HOUSE OF BEAUTY",
+  "provider": "ovo",
+  "discount_detail": "Cukup #pakeOVOaja untuk nikmati Diskon 30% senilai 150 Ribu hanya 105 Ribu untuk perawatan Basic Facial atau senilai 175 Ribu (harga normal 250 Ribu) untuk SDH Treatment di SDH House of Beauty Surabaya. Yuk manjakan kulit indah mu!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/16/05/l/16196.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:20:37"
+}, {
+  "discountid": "",
+  "short_description": "Voucher Rp 50.000 for Sushi Festival",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nBagi Anda penggemar masakan Jepang. Anda wajib untuk mengunjungi Kushiya Monogatari yang menyediakan berbagai menu Sushi Festival sebanyak 25 varian, yang dapat Anda nikmati kapan saja. Baik untuk makan malam maupun makan siang Anda. Semua menu disini diolah dari bahan \u2013 bahan segar berkualitas.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/35/17/l/16751.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "11 Apr 2019",
+  "created_at": "2019-03-22 04:20:41"
+}, {
+  "discountid": "",
+  "short_description": "Wedding Nail Art",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nSempurnakan hari spesialmu dengan penawaran terbaru dari Agassi Studio. Dapatkan promo Wedding Nail Art yang bisa membuat tampilan kuku Anda menjadi memukau dengan warna-warna sesuai selera Anda dan tampilan gradasi yang memukau. Menggunakan bahan-bahan yang aman bagi kesehatan serta didukung oleh terapis profesional, Agassi Studio bisa menjadi pilihan terbaik Anda. Berlokasi di Pluit Village Mall, Anda bisa menikmati layanan terbaik dari kami.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/95/17/l/16775.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "11 Apr 2019",
+  "created_at": "2019-03-22 04:20:44"
+}, {
+  "discountid": "",
+  "short_description": "Women\u2019s Hair Cut + Blow Dry",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nJadikan rambut Anda lebih tampil sempurna dengan penawaran yang diberikan oleh Haircode, di mana Anda bisa memberikan perawatan pada rambut Anda dengan promo, Women\u2019s Hair Cut dan Blow dry untuk membuat rambut Anda tampak stylist dan juga tampak rapih di hari spesial Anda. Selain itu, Anda juga akan mendapatkan Shampoo L\u2019oreal untuk membuat rambut Anda tetap halus sepanjang hari setelah keramas.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/20/18/l/16792.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "11 Apr 2019",
+  "created_at": "2019-03-22 04:20:50"
+}, {
+  "discountid": "",
+  "short_description": "Eye Strain + Foot +Back Massage",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nEye Strain Massage adalah salah satu massage yang dilakukan di daerah mata yang berfungsi untuk menghilangkan lelah di area mata Anda akibat terlalu banyak menghabiskan waktu didepan komputer/laptop atau bahkan gadget Anda yang selalu digunakan setiap saat. Eye strain ini tidak hanya untuk anak-anak saja tetapi juga untuk orang dewasa, selain dapat memulihkan rasa lelah pada mata Anda, Eye Strain Treatment ini juga dapat mengurangi minus pada mata Anda jika dilakukan secara rutin. Dapatkan voucher spesial paket Eye Strain Massage dan pilihan 1 massage lain (Champi/Foot Massage/Back Massage) dengan durasi 40 menit hanya di Fave.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/42/18/l/16806.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "11 Apr 2019",
+  "created_at": "2019-03-22 04:20:54"
+}, {
+  "discountid": "",
+  "short_description": "Teriyaki Chicken with Egg + Drink",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nPerut kenyang dengan makan enak tanpa harus bikin dompet kering! Nikmati paket makan Teriyaki Chicken with Egg dari Pepper Lunch. Dengan membeli vouchernya di Fave, kamu akan mendapatkan 1 porsi Teriyaki Chicken with Egg dan 1 Lemon Tea / Lemonade dengan harga yang lebih murah. Jadi, kamu nggak perlu khawatir lagi deh dompet menipis di akhir bulan!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/31/29/l/17263.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "29 Apr 2019",
+  "created_at": "2019-03-22 04:20:57"
+}, {
+  "discountid": "",
+  "short_description": "1 Box Isi 3 Homemade",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nNikmati cita rasa khas kue Thailand yang manis dan legit dengan paket 1 box homemade yang berisi 3 jenis Thai Bun Bun dengan rasa yang khas dan legit. Berbagai pilihan rasa bisa Anda pilih sesuai selera seperti rasa srikaya, original, milo, coklat, susu, thai tea & thai greentea.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/39/29/l/17267.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "02 May 2019",
+  "created_at": "2019-03-22 04:21:01"
+}, {
+  "discountid": "",
+  "short_description": "Diet Cheat Day Party!",
+  "shop_name": "OVO",
+  "provider": "ovo",
+  "discount_detail": "Mau bikin cheating day diet kamu lebih seru? Yuk ke Deja Food dan temukan berbagai menu yang yummmmmmmy dengan Cashback 10%.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/52/37/l/17676.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "24 Mar 2019",
+  "created_at": "2019-03-22 04:21:04"
+}, {
+  "discountid": "",
+  "short_description": "Voucher Value Rp500.000",
+  "shop_name": "ASURANSI RAKSA",
+  "provider": "ovo",
+  "discount_detail": " Pastikan kendaraan kesayangan kamu terproteksi dengan asuransi walaupun cicilan sudah lunas. Dapatkan cover comprehensive sekarang dari Asuransi Raksa. Cukup #pakeOVOaja kamu bisa dapatkan voucher senilai Rp500.000 hanya Rp200.000.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/10/11/l/16454.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Dec 2019",
+  "created_at": "2019-03-22 04:21:08"
+}, {
+  "discountid": "",
+  "short_description": "BOOKS&BEYOND PRIVILEGE untuk 3 tahun",
+  "shop_name": "Books & Beyond",
+  "provider": "ovo",
+  "discount_detail": "Dapatkan voucher diskon 20% dan nikmati diskon 10% untuk pembelian buku & mainan sepanjang tahun. Gratis Gift Voucher Rp 150,000 dari Books&Beyond.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/94/11/l/16502.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Dec 2019",
+  "created_at": "2019-03-22 04:21:11"
+}, {
+  "discountid": "",
+  "short_description": "BOOKS&BEYOND PRIVILEGE untuk 2 tahun",
+  "shop_name": "Books & Beyond",
+  "provider": "ovo",
+  "discount_detail": "Dapatkan voucher diskon 20% dan nikmati diskon 10% untuk pembelian buku & mainan sepanjang tahun. Gratis Gift Voucher Rp 100,000 dari Books&Beyond.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/07/12/l/16511.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Dec 2019",
+  "created_at": "2019-03-22 04:21:14"
+}, {
+  "discountid": "",
+  "short_description": "BOOKS&BEYOND PRIVILEGE untuk 1 tahun",
+  "shop_name": "Books & Beyond",
+  "provider": "ovo",
+  "discount_detail": "Dapatkan voucher diskon 20% dan nikmati diskon 10% untuk pembelian buku & mainan sepanjang tahun. ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/15/12/l/16515.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Dec 2019",
+  "created_at": "2019-03-22 04:21:18"
+}, {
+  "discountid": "",
+  "short_description": "Bikers Delight",
+  "shop_name": "Moto Cafee 69",
+  "provider": "ovo",
+  "discount_detail": "Ingin cuci motor sambil menikmati menu-menu lezat? Bawa motormu ke Moto Cafee 69. Di kafe bertema motor ini, Cukup #pakeOVOaja Kamu bisa menikmati berbagai menu dengan Diskon 20% sambil menunggu motormu selesai dicuci.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/31/13/l/16563.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Dec 2019",
+  "created_at": "2019-03-22 04:21:21"
+}, {
+  "discountid": "",
+  "short_description": "Facial Acne",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nElty Clinic MOI kini hadir di Fave untuk memberikan Anda beberapa macam perawatan yang bisa membuat kulit Anda tampak cerah dan halus alami seperti artis Korea. Elty Clinic MOI menawarkan Anda promo berupa Facial Acne, di mana perawatan ini membantu Anda untuk menghilangkan jerawat yang mengganggu penampilan Anda. Anda akan ditangani oleh terapis professional untuk hasil wajah yang maksimal untuk Anda.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/34/18/l/16802.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "11 Apr 2019",
+  "created_at": "2019-03-22 04:21:25"
+}, {
+  "discountid": "",
+  "short_description": "Time for Appliances Update?",
+  "shop_name": "MASPION BAZAR",
+  "provider": "ovo",
+  "discount_detail": "Lengkapi rumahmu dengan produk kebanggaan Indonesia. Dapatkan diskon 10% semua produk dan cashback 5%.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/99/19/l/16883.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Apr 2019",
+  "created_at": "2019-03-22 04:21:28"
+}, {
+  "discountid": "",
+  "short_description": "Walk Freely Anytime, Anywhere",
+  "shop_name": "CARVIL",
+  "provider": "ovo",
+  "discount_detail": "Ke mana pun tujuanmu, pastikan langkahmu nyaman. Yuk dapatkan koleksi sandal terbaru dengan harga istimewa, antara lain : Sandal wanita, hanya 49rb, Sandal pria, hanya 99rb dan Sandal anak, hanya 39rb. ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/32/21/l/16928.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:21:31"
+}, {
+  "discountid": "",
+  "short_description": "2x Capoeira Adult Class (For New Member)",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nDalam Capoeira Adult Class anda akan mendapatkan general level of fitness and flexibility, develop balance, coordination, dalam kelas yang active & interactive. Tak hanya itu saja, anda juga mendapatkan sense of rhythm and awareness melalui ketukan dan alat musik yang akan di mainkan bersama trainer profesional berpengalaman di ruang yg bersih dan nyaman",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/15/22/l/16959.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "19 Apr 2019",
+  "created_at": "2019-03-22 04:21:35"
+}, {
+  "discountid": "",
+  "short_description": "1x Building Class + Playground Entrance",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nDi Bricks 4 Kidz, anak Anda dapat mengembangkan imajinasinya dengan mendesain dan membangun mesin, ketapel, piramida, bangunan, dan konstruksi lainnya menggunakan LEGO\u00aeDUPLO untuk Preschool Program dan LEGO\u00aeBrick untuk Afterschool Program. Melalui aktivitas ini, anak Anda tidak hanya mengeksplorasi bidang engineering, arsitektur, dan fisika, tetapi juga mengembangkan kemampuan penyelesaian masalah dan berpikir kritis.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/22/22/l/16962.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "19 Apr 2019",
+  "created_at": "2019-03-22 04:21:38"
+}, {
+  "discountid": "",
+  "short_description": "Sweet Treat for Your Sweet Tooth",
+  "shop_name": "HAAGEN DAZS",
+  "provider": "ovo",
+  "discount_detail": "Siapa sih yang nggak suka es krim, apalagi Haagen Dazs! Yuk dapatkan Hello Jelly Haagen Dazs hanya dengan 50rb pake OVO.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/46/22/l/16970.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:21:42"
+}, {
+  "discountid": "",
+  "short_description": "Standar Internasional dengan harga lokal",
+  "shop_name": "KERRY EXPRESS",
+  "provider": "ovo",
+  "discount_detail": "Sering khawatir paketmu sampai nggak tepat waktu? Yuk coba deh kirim paketmu lewat Kerry Express. Selain aman dan cepat, Kamu juga bisa lacak paketmu secara online dan real-time. Dapatkan Diskon 60% + 5% Cashback pakai OVO.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/51/22/l/16971.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:21:45"
+}, {
+  "discountid": "",
+  "short_description": "Cozy Weekend Hangout",
+  "shop_name": "Gusto",
+  "provider": "ovo",
+  "discount_detail": "Mau hangout weekend sampai kenyang? Langsung aja ke Gusto dan dapatkan Diskon 50% + Cashback 10% menu makanan, khusus hari Sabtu & Minggu.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/46/23/l/16998.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:21:48"
+}, {
+  "discountid": "",
+  "short_description": "Juice for You!",
+  "shop_name": "Life Juice",
+  "provider": "ovo",
+  "discount_detail": "Badanmu mulai terasa nggak fit? Segarkan dengan Life Juice. Dibuat dari 100% bahan alami pilihan untuk lengkapi kebutuhan nutrisi kamu. Dapatkan Cashback 30% pakai OVO.  ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/35/25/l/17071.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:21:52"
+}, {
+  "discountid": "",
+  "short_description": "Choc & Chill",
+  "shop_name": "DEWI LUWAK COFFEE",
+  "provider": "ovo",
+  "discount_detail": "Mau bikin waktu santaimu lebih berasa? Nikmati segelas es coklat otentik ala Dewi Luwak Coffee gratis dan bonus cashback 5%, dengan transaksi min. 100rb.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/60/25/l/17088.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:21:55"
+}, {
+  "discountid": "",
+  "short_description": "Get Your Tummy Ready!",
+  "shop_name": "FOOD COURT MAG",
+  "provider": "ovo",
+  "discount_detail": "Waktunya jalan-jalan kulineran lagi? Yuk ke Food Fiesta di Food Court Mall Artha Gading. Pesan menu kesukaanmu dan dapatkan Cashback 50% pakai OVO.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/72/27/l/17184.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:21:58"
+}, {
+  "discountid": "",
+  "short_description": "Relaxing Body Treatment (60 Menit)",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nLepaskan penat dan stress dengan paket spesial dari House of D'Aulia. Ada paket Relaxing Body Treatment (60 Menit) yang siap memanjakan Anda di sana. Rangkaian layanan ini memiliki manfaat yang sangat baik untuk tubuh seperti melancarkan darah, mengangkat sel kulit mati, hingga memberikan efek relaksasi. Anda akan ditangani oleh terapis berpengalaman sehingga hasilnya akan maksimal.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/87/28/l/17235.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "02 May 2019",
+  "created_at": "2019-03-22 04:22:02"
+}, {
+  "discountid": "",
+  "short_description": "Manicure + Gel Polish + Lash Extension",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nKuku juga harus dirawat lho! Kini Newtrix telah hadir di Fave dengan penawaran spesial untuk kuku Anda. Ada paket Manicure dan Gel Nail Polish untuk perawatan kuku tangan. Dengan paket perawatan ini, kuku Anda akan terjaga kebersihan dan kesehatannya. Tidak hanya itu, paket ini juga bisa mempercantik tampilan kuku Anda sehingga menambah rasa percaya diri. Dengan membeli paket ini, Anda juga mendapatkan layanan 1x Classic Natural Eyelash Extension untuk memperindah bulu mata.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/18/29/l/17258.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "02 May 2019",
+  "created_at": "2019-03-22 04:22:05"
+}, {
+  "discountid": "",
+  "short_description": "1 Box Isi 3 Premium",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nBukan hanya makanan berat, Thaland juga memiliki makanan ringan yang khas. Thai Bun Bun hadir di Fave dengan paket 1 box premium yang berisi 3 jenis Thai Bun Bun dengan rasa yang khas dan legit. Berbagai pilihan rasa bisa Anda pilih sesuai selera seperti rasa nutella, ovomaltine, skippy, dan mozzarella",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/46/29/l/17270.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "02 May 2019",
+  "created_at": "2019-03-22 04:22:09"
+}, {
+  "discountid": "",
+  "short_description": "Your Me Time Savior",
+  "shop_name": "HOME LAUNDRY",
+  "provider": "ovo",
+  "discount_detail": "Nggak rela waktu santaimu habis untuk mencuci pakaian berjam-jam? Serahkan aja ke @Home Laundry dan cucianmu akan selesai dalam 3 jam saja. Bayar pakai OVO dan dapatkan Cashback 10%.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/66/30/l/17342.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:22:12"
+}, {
+  "discountid": "",
+  "short_description": "Waff a Crispy Treats!",
+  "shop_name": "WAFFLEQ",
+  "provider": "ovo",
+  "discount_detail": "Crispy di luar, lembut di dalam. Apalagi ditambah dengan toppingnya yang mmmm. Cocok banget buat kamu yang mau makan ringan. Nikmati WaffleQ dengan harga spesial hanya 50rb aja (normal 70rb++) dan Cashback 40%. ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/71/30/l/17347.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:22:16"
+}, {
+  "discountid": "",
+  "short_description": "Come to Sushi Paradise",
+  "shop_name": "KOINOBORI SUSHI BAR",
+  "provider": "ovo",
+  "discount_detail": "Sushilovers! Yuk cobain berbagai varian sushi ditemani suasana cozy ala Koinobori Sushi Bar dengan Cashback 20% pakai OVO.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/84/30/l/17356.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:22:19"
+}, {
+  "discountid": "",
+  "short_description": "Keep Your Teeth Happy",
+  "shop_name": "LYA DENTAL CARE",
+  "provider": "ovo",
+  "discount_detail": "LOKASI OUTLET :",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/98/30/l/17366.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 May 2019",
+  "created_at": "2019-03-22 04:22:22"
+}, {
+  "discountid": "",
+  "short_description": "Tiket Masuk untuk 4 Orang",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nRabbit Land adalah fasilitas taman bermain dengan kelinci di area Gading Walk. Di sini anak-anak bisa berinteraksi langsung dan memberi makan kelinci-kelinci yang ada serta belajar menyanyangi hewan ciptaan Tuhan. Dengan penawaran yang ada di Fave dapat memberikan buah hati Anda kesempatan untuk bermain di alam bebas dengan makhluk hidup ciptaan Tuhan lainnya.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/24/31/l/17384.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "04 May 2019",
+  "created_at": "2019-03-22 04:22:26"
+}, {
+  "discountid": "",
+  "short_description": "2 Jam Karaoke + Snack in Small Room",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nSalah satu kegiatan yang bisa dilakukan untuk menghabiskan waktu bersama teman-teman atau keluarga adalah berkumpul sambil berkaraoke ria. Diva Karaoke merupakan tempat karaoke keluarga yang dilengkapi perangkat karaoke serta ruangan full AC menyediakan paket 2 Jam karaoke + snack di ruangan small.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/31/31/l/17391.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "01 Apr 2019",
+  "created_at": "2019-03-22 04:22:29"
+}, {
+  "discountid": "",
+  "short_description": "Kuta: 2D1N in Garden Room + Breakfast",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nNgurusin kerjaan terus? Berarti sekarang saatnya Anda berlibur! Nah, kalau Anda akan berlibur di Bali, menginaplah di salah satu penginapan terbaik di sana, yaitu Klapa Resort Bali. Ada penawaran spesial yang ditawarkan di Klapa Resort Bali, yaitu paket menginap 2 hari 1 malam di Garden Room. Dengan paket ini, Anda sudah mendapatkan sarapan pagi secara gratis. Tidak hanya itu, ada banyak fasilitas hotel yang bisa Anda nikmati seperti kolam renang dan Restoran.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/38/31/l/17394.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "03 Jun 2019",
+  "created_at": "2019-03-22 04:22:33"
+}, {
+  "discountid": "",
+  "short_description": "Malang: 2D1N in Deluxe Room + Breakfast",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nNgurusin kerjaan terus? Berarti sekarang saatnya Anda berlibur! Nah, kalau Anda akan berlibur di Malang, menginaplah di salah satu penginapan yang ada di Batu, yaitu Arjuna Hotel Batu City. Ada penawaran spesial yang ditawarkan di Arjuna Hotel Batu City, yaitu paket menginap 2 hari 1 malam di Deluxe Room. Dengan paket ini, Anda sudah mendapatkan sarapan pagi secara gratis.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/44/31/l/17400.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "04 May 2019",
+  "created_at": "2019-03-22 04:22:36"
+}, {
+  "discountid": "",
+  "short_description": "Kemang: 2D1N in Deluxe Room + Breakfast",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nKalau sedang berada di Jakarta nggak usah bingung mau menginap di mana. Kamu hanya perlu datang ke sebuah penginapan bernama Park Regis Arion Hotel Kemang. Di sana, ada paket menginap selama 2 hari 1 malam yang bisa dinikmati oleh 2 orang. Dengan paket ini, kamu juga sudah mendapatkan sarapan pagi secara gratis. Selain itu, ada pula fasilitas Park Regis Arion Hotel Kemang yang bisa kamu dapatkan seperti kolam renang outdoor, spa, dan fasilitas kebugaran.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/52/31/l/17408.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "03 Jun 2019",
+  "created_at": "2019-03-22 04:22:40"
+}, {
+  "discountid": "",
+  "short_description": "1x Baby Swimming and Massage",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nTahap pertumbuhan dan perkembangan bayi merupakan tahap paling penting untuk meningkatkan kecerdasan dan merangsang sistem sensorik. Babylogy kini hadir untuk memberikan Anda penawaran berupa 1x Baby Swimming dan Massage. Dengan rutin melakukan renang akan membantu pertumbuhan otot bayi karena berenang membutuhkan gerak seluruh otot motoriknya, meningkatkan daya tahan tubuh bayi terhadap penyakit, dan melatih keberanian sejak dini. Massage juga dapat membantu meningkatkan berat badan dan kualitas pola tidur bayi atau anak.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/67/31/l/17423.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "04 May 2019",
+  "created_at": "2019-03-22 04:22:43"
+}, {
+  "discountid": "",
+  "short_description": "Dewi Sri Spa Foot Therapy (30 Menit)",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nLepaskan stress dan lelah dengan salah satu paket spesial dari Martha Tilaar Express. Di sana ada paket berupa Dewi Sri Spa Foot Therapy selama 30 menit yang berlaku untuk 1 orang. Dengan paket ini Anda akan mendapatkan layanan massage dari terapis berpengalaman. Anda juga akan ditempatkan di ruangan yang nyaman dan privat.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/74/31/l/17426.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "04 May 2019",
+  "created_at": "2019-03-22 04:22:47"
+}, {
+  "discountid": "",
+  "short_description": "Manicure + Pedicure + Gel Polish",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nKuku juga harus dirawat lho! Kini Montclair Beauty telah hadir di Fave dengan penawaran spesial untuk kuku Anda. Ada paket Manicure, Pedicure, Gel Polish untuk perawatan kuku kaki dan tangan. Dengan paket perawatan ini, kuku Anda akan terjaga kebersihan dan kesehatannya. Tidak hanya itu, paket ini juga bisa mempercantik tampilan kuku Anda sehingga menambah rasa percaya diri.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/80/31/l/17432.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "04 May 2019",
+  "created_at": "2019-03-22 04:22:51"
+}, {
+  "discountid": "",
+  "short_description": "Rejuvenate Your Soul",
+  "shop_name": "Toya Devasya",
+  "provider": "ovo",
+  "discount_detail": "Manjakan dirimu dengan berendam air panas sambil menyaksikan kemegahan panorama Gunung Batur, atau bertualang dan berkemah di tengah pesona alam Bali. Dapatkan Diskon 20% tiket masuk Toya Devasya pakai OVO. ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/94/31/l/17442.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "09 Jun 2019",
+  "created_at": "2019-03-22 04:22:54"
+}, {
+  "discountid": "",
+  "short_description": "Nasi Campur Gianyar",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nEnggak ada yang bisa mengalahkan citarasa kuliner khas Indonesia. Yap, untuk itu kamu harus makan menu satu ini. Ada paket spesial dari Bebek Bengil Jakarta yang bisa dinikmati untuk 1 orang. Paket tersebut berupa masakan Indonesia yang terdiri dari Nasi Campur Gianyar. Semua masakan di sana diolah dengan bumbu dan rempah-rempah otentik sesuai dengan cita rasa sesungguhnya.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/16/32/l/17452.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "04 Apr 2019",
+  "created_at": "2019-03-22 04:22:58"
+}, {
+  "discountid": "",
+  "short_description": "Soup-er Tasty!",
+  "shop_name": "Sing Bak Kut Teh",
+  "provider": "ovo",
+  "discount_detail": "Kamu pecinta kuliner berkuah khas Asia? Cobain Bak Kut Teh ala Singapore dengan Diskon 5% + Cashback 5% pakai OVO. ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/55/32/l/17459.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:23:01"
+}, {
+  "discountid": "",
+  "short_description": "Brew Your Moments",
+  "shop_name": "KOPI KETJE",
+  "provider": "ovo",
+  "discount_detail": "Segelas kopi bisa menjadi awal percakapan atau bahkan perkenalan. Apalagi kalau kopinya nikmat. Yuk dapatkan Cashback 60% di Kopi Ketje pakai OVO.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/02/33/l/17486.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "28 Mar 2019",
+  "created_at": "2019-03-22 04:23:05"
+}, {
+  "discountid": "",
+  "short_description": "Triple Japanese Treats",
+  "shop_name": "HANAMARU UDON",
+  "provider": "ovo",
+  "discount_detail": "Itadakimasu! Santap gurihnya paket value set Niku Udon + Ocha + FREE Tempura Chikuwa hanya 49rb aja pakai OVO! ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/86/34/l/17494.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Apr 2019",
+  "created_at": "2019-03-22 04:23:09"
+}, {
+  "discountid": "",
+  "short_description": "Discover Legendary Recipes",
+  "shop_name": "RUMAH MAKAN HANDAYANI",
+  "provider": "ovo",
+  "discount_detail": "Waktunya makan-makan keluarga? Cicipi menu-menu istimewa khas RM Handayani yang melegenda sejak lebih dari 50 tahun. Dapatkan Cashback 30% pakai OVO.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/82/33/l/17522.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 Mar 2019",
+  "created_at": "2019-03-22 04:23:12"
+}, {
+  "discountid": "",
+  "short_description": "Big Shopping Surprise!",
+  "shop_name": "Matahari Department Store",
+  "provider": "ovo",
+  "discount_detail": "Mau update gaya? Cari pernik & perlengkapan rumah? Ke Matahari Department Store aja dan nikmati Cashback 20% pakai OVO.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/91/33/l/17527.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "24 Mar 2019",
+  "created_at": "2019-03-22 04:23:15"
+}, {
+  "discountid": "",
+  "short_description": "Deep Clean Treatment",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nJika sepatumu terlihat lusuh karena warnanya yang rusak serta memudar, jangan buru-buru membuangnya dan membeli sepatu baru! Kamu bisa mempercayakan Goodlook Shoes untuk membersihkan sepatumu dengan layanan Deep Cleaningnya. Dijamin, sepatumu akan kembali good looking dengan Good Look. Jadi makin pede deh, dipakai kemana-mana.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/24/34/l/17540.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "11 May 2019",
+  "created_at": "2019-03-22 04:23:19"
+}, {
+  "discountid": "",
+  "short_description": "Paket Ayam Dada dan Pepsi untuk 1 Orang",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nKenapa harus kelaparan kalau bisa kenyang? Kini HIG Chicken telah hadir di Fave dengan penawaran paling spesial. Ada paket Set Menu berupa Paket Makan Ayam Dada dan Pepsi untuk 1 Orang yang terdiri dari Ayam goreng, Nasi, dan Pepsi. Dengan paket tersebut, Anda akan diajak untuk menikmati sajian kuliner khas yang diracik dengan bumbu yang pas dan menggunakan bahan-bahan berkualitas.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/32/34/l/17548.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "11 May 2019",
+  "created_at": "2019-03-22 04:23:22"
+}, {
+  "discountid": "",
+  "short_description": "Voucher Rp 50.000 untuk Semua Menu",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nBisa makan banyak, enak, dan puas kini tak lagi mahal lho! Kedai Soto Ibu Rahayu telah hadir di Fave untuk menjawab keinginanmu. Di sana, kamu bisa mendapatkan Voucher Senilai Rp 50.000,- Untuk Semua Menu Makanan dan Minuman. Kedai Soto Ibu Rahayu menyajikan berbagai macam menu makanan tradisional seperti Soto Ayam, Soto Kuning, dan masih banyak lagi. Jangan sampai lewatkan kesempatan ini karena Kedai Soto Ibu Rahayu memiliki sajian kuliner yang pastinya bisa memanjakan selera lidah dan perutmu!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/39/34/l/17551.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "09 May 2019",
+  "created_at": "2019-03-22 04:23:26"
+}, {
+  "discountid": "",
+  "short_description": "Menu Khas Korea untuk 2 Orang",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nUdah coba sajian Sogogi Bokkeum khas masakan Korea belum? Kini SamWon House hadir di Fave untuk mengajakmu merasakan kuliner dari Negeri Gingseng tersebut. Di sana ada paket Paket Makan Menu Khas Korea untuk 2 Orang yang terdiri dari Sogogi Bokkeum, Kimchi Jjigae, dan masih banyak lagi. Bahan-bahan yang digunakan maupun proses pengolahannya sangat otentik sehingga kamu bisa merasakan citarasa masakan Korea yang sesungguhnya.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/55/34/l/17563.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "04 May 2019",
+  "created_at": "2019-03-22 04:23:29"
+}, {
+  "discountid": "",
+  "short_description": "Fast Cleaning 3 Sepatu (Pria / Wanita)",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nShoes and Care Bandung kini hadir di Fave dengan paket spesial. Ada promo menarik berupa Paket Fast Cleaning 3 Sepatu (Pria / Wanita). Dengan paket ini, pembersihan sepatu akan dilakukan meliputi Midsole (pinggir sol sepatu) dan Upper sepatu (bagian luar atas sepatu).",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/71/34/l/17575.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "11 May 2019",
+  "created_at": "2019-03-22 04:23:33"
+}, {
+  "discountid": "",
+  "short_description": "Bon App\u00e9tit!",
+  "shop_name": "Cafe Lip",
+  "provider": "ovo",
+  "discount_detail": "Mau bersantai ditemani menu ala Perancis? Yuk ke Caf\u00e9 LIP dan nikmati Cashback 30%.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/71/35/l/17615.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "24 Mar 2019",
+  "created_at": "2019-03-22 04:23:36"
+}, {
+  "discountid": "",
+  "short_description": "Show Your Big Smile!",
+  "shop_name": "PONDOK GIGI",
+  "provider": "ovo",
+  "discount_detail": "Hadirkan keceriaan di mana saja dengan senyumanmu. Yuk rawat kesehatan gigi di Pondok Gigi dengan Cashback 30%. ",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/18/36/l/17638.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "26 Mar 2019",
+  "created_at": "2019-03-22 04:23:40"
+}, {
+  "discountid": "",
+  "short_description": "Oh, Sweetie Cup",
+  "shop_name": "PODJOK HALAL",
+  "provider": "ovo",
+  "discount_detail": "Temani perjalananmu tiap hari dengan yang manis. Nikmati Coffee Mix, Chocolate, atau Green Tea in a cup hanya Rp5000 Cukup #pakeOVOaja.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/24/37/l/17672.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "31 May 2019",
+  "created_at": "2019-03-22 04:23:43"
+}, {
+  "discountid": "",
+  "short_description": "Voucher Bermain Senilai Rp200.000",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nBermain di Timezone dengan berbagai jenis mesin permainan, Kamu bisa bersenang-senang bersama teman, keluarga dengan total voucher bermain senilai Rp 200.000 yang termasuk saldo bermain Rp 150.000 dan 5 Free Game (senilai Rp 50.000) yang dapat dimainkan di mesin yang tidak mengeluarkan kartu, tiket, vending minuman, foto, boneka dan sejenisnya.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/60/37/l/17680.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "16 May 2019",
+  "created_at": "2019-03-22 04:23:47"
+}, {
+  "discountid": "",
+  "short_description": "Voucher Bermain Senilai Rp500.000",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nBermain di Timezone dengan berbagai jenis mesin permainan, Kamu bisa bersenang \u2013senang bersama teman, keluarga dengan total voucher bermain senilai Rp 500.000 yang termasuk saldo bermain Rp 300.000 dan 20 Free Game (senilai Rp 200.000) yang dapat dimainkan di mesin yang tidak mengeluarkan kartu, tiket, vending minuman, foto, boneka dan sejenisnya.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/66/37/l/17686.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "16 May 2019",
+  "created_at": "2019-03-22 04:23:51"
+}, {
+  "discountid": "",
+  "short_description": "Car Grooming + Engine Cleaning",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nLayanan yang membersihkan kotoran di permukaan cat mobil dari water spots atau jamur, noda aspal, termasuk vacum interior dari debu dan kotoran. Layanan ini memberikan wax/paint protection untuk melindungi cat agar tetap terjaga kecemerlangan warna dan kilaunya sehingga membuat warna mobil Anda lebih mengkilap serta berkilau. Serta memberikan bahan proteksi pada bagian-bagian yang terbuat dari plastic dan karet, agar tetap terlindung dan tidak getas pada suhu mobil.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/71/37/l/17687.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "19 May 2019",
+  "created_at": "2019-03-22 04:23:55"
+}, {
+  "discountid": "",
+  "short_description": "Voucher Senilai Rp128.000",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nDin Tai Fung Chef's Table menawarkan kualitas makanan yang terbaik dengan suasana yang cozy sehingga menjadi pilihan yang tepat untuk acara pertemuan bisnis ataupun kumpul dengan rekan dan keluarga. Menu khas dari Din Tai Fung adalah Xiao Long Bao. Tidak hanya sekedar xiao long bao, Din Tai Fung juga menawarkan kelezatan dari menu lainnya seperti Crispy Fried Chicken with Chili, Black Pepper Tenderloin Beef dan aneka noodle yang dibuat homemade dengan menggunakan tepung impor. Khusus di Din Tai Fung Chef\u2019s Table anda juga dapat menikmati aneka hidangan pork, seperti Steamed Pork Dumpling, Grandma\u2019s Braised Tung Po Pork in Brown Sauce, dan Braised Pork Belly Noodle with Original Pork Bone Soup.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/76/37/l/17688.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Mar 2019",
+  "created_at": "2019-03-22 04:23:58"
+}, {
+  "discountid": "",
+  "short_description": "Voucher Senilai Rp128.000",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nBisa makan banyak, enak dan puas kini tak lagi mahal lho! Eaton telah hadir di Fave untuk menjawab keinginanmu. Disana, kamu bisa mendapatkan Voucher Senilai Rp 128.000 untuk Semua Menu. Eaton menyajikan berbagai macam menu makanan Chinese seperti olahan seafood, kuey teow, dan masih banyak lagi. Jangan sampai lewatkan kesempatan ini karena Eaton memiliki sajian kuliner yang pastinya bisa memanjakan selera lidah dan perutmu!",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/82/37/l/17690.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "29 Apr 2019",
+  "created_at": "2019-03-22 04:24:02"
+}, {
+  "discountid": "",
+  "short_description": "1 to Go Size MINE-160z (3mix-in choices)",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nCuaca panas memang sering bikin orang sensi. Daripada marah-marah, mending ademin hati kamu dengan makan ice cream, karena kini Cold Stone Creamery hadir di Fave! Kamu bisa mendapatkan 1 To Go Ice Cream dengan harga yang super murah. Pasti ngiler kan, bayanginnya?",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/87/37/l/17695.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Mar 2019",
+  "created_at": "2019-03-22 04:24:05"
+}, {
+  "discountid": "",
+  "short_description": "1 Signature Ice Cream Size Love it - 6oz",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nCuaca panas memang sering bikin orang sensi. Daripada marah-marah, mending ademin hati kamu dengan makan ice cream, karena kini Cold Stone Creamery hadir di Fave! Kamu bisa mendapatkan 1 Signature Ice Cream dengan harga yang super murah. Pasti ngiler kan, bayanginnya?",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/92/37/l/17696.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "30 Mar 2019",
+  "created_at": "2019-03-22 04:24:09"
+}, {
+  "discountid": "",
+  "short_description": "Nasi Hainam + Es Krim untuk 2 orang",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nPerut udah mulai keroncongan? Langsung saja datang ke Jin Wan Resto. Di sana ada paket spesial berupa Paket Makan Nasi Hainam dan Es Krim untuk 2 orang yang kini telah tersedia di Fave. Kamu bisa mendapatkan makanan berupa olahan masakan Chinese. Semua menu di sana diolah dengan sempurna dan terbuat dari bahan-bahan yang berkualitas. Sajian ini akan mengajak Anda untuk menikmati cita rasa Nasi Hainam sesungguhnya.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/04/38/l/17700.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "19 May 2019",
+  "created_at": "2019-03-22 04:24:12"
+}, {
+  "discountid": "",
+  "short_description": "Ramyun Curry Chicken Katsu",
+  "shop_name": "Fave",
+  "provider": "ovo",
+  "discount_detail": "Detail\nUdah coba sajian Ramyun Curry Chicken Katsu khas masakan Korea belum? Kini SamWon Express hadir di Fave untuk mengajakmu merasakan kuliner dari Negeri Gingseng tersebut. Bahan-bahan yang digunakan maupun proses pengolahannya sangat otentik sehingga kamu bisa merasakan cita rasa Ramyun Curry Chicken Katsu yang sesungguhnya.",
+  "image_url": "https://images-loyalty.ovo.id/public/deal/10/38/l/17702.jpg?ver=1",
+  "discount_start_date": "",
+  "discount_end_date": "04 May 2019",
+  "created_at": "2019-03-22 04:24:16"
 }]
