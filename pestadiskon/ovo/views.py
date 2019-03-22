@@ -44,13 +44,15 @@ def index(request):
     browser2 = webdriver.Chrome(chromedriver)
 
     for dat in data:
-        print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+
         link = dat.find_element_by_tag_name('a').get_attribute('href')
 
         browser2.get(link)
         time.sleep(3)
 
         try:
+            print(browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_class_name('ovo-deals-merchant-details').find_element_by_tag_name('p').text)
+
             datas.append(
                 {
                     'discountid':'',
@@ -65,19 +67,22 @@ def index(request):
                 }
             )
         except :
+            print(browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_class_name('ovo-deals-merchant-details').find_element_by_tag_name('div').text)
+
             datas.append(
                 {
                     'discountid':'',
                     'short_description':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_tag_name('h3').text,
                     'shop_name':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_class_name('ovo-deals-merchant-text').text,
                     'provider':'ovo',
-                    'discount_detail':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_class_name('ovo-deals-merchant-details').find_element_by_tag_name('div').text,
+                    'discount_detail':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_class_name('ovo-deals-merchant-details').text,
                     'image_url':browser2.find_element_by_class_name('ovo-merchant-image-wrapper').find_element_by_tag_name('img').get_attribute('src'),
                     'discount_start_date':'',
                     'discount_end_date':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_tag_name('h6').text.replace('Berlaku Hingga ',''),
                     'created_at':datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
                 }
             )
+
 
     writeToJsonFile(datas)
     return HttpResponse('success')
