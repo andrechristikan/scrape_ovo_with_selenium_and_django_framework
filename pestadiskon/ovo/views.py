@@ -50,19 +50,34 @@ def index(request):
         browser2.get(link)
         time.sleep(3)
 
-        datas.append(
-            {
-                'discountid':'',
-                'short_description':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_tag_name('h3').text,
-                'shop_name':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_class_name('ovo-deals-merchant-text').text,
-                'provider':'ovo',
-                'discount_detail':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_class_name('ovo-deals-merchant-details').find_element_by_tag_name('p').text,
-                'image_url':browser2.find_element_by_class_name('ovo-merchant-image-wrapper').find_element_by_tag_name('img').get_attribute('src'),
-                'discount_start_date':'',
-                'discount_end_date':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_tag_name('h6').text.replace('Berlaku Hingga ',''),
-                'created_at':datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-            }
-        )
+        try:
+            datas.append(
+                {
+                    'discountid':'',
+                    'short_description':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_tag_name('h3').text,
+                    'shop_name':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_class_name('ovo-deals-merchant-text').text,
+                    'provider':'ovo',
+                    'discount_detail':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_class_name('ovo-deals-merchant-details').find_element_by_tag_name('p').text,
+                    'image_url':browser2.find_element_by_class_name('ovo-merchant-image-wrapper').find_element_by_tag_name('img').get_attribute('src'),
+                    'discount_start_date':'',
+                    'discount_end_date':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_tag_name('h6').text.replace('Berlaku Hingga ',''),
+                    'created_at':datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                }
+            )
+        except :
+            datas.append(
+                {
+                    'discountid':'',
+                    'short_description':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_tag_name('h3').text,
+                    'shop_name':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_class_name('ovo-deals-merchant-text').text,
+                    'provider':'ovo',
+                    'discount_detail':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_class_name('ovo-deals-merchant-details').find_element_by_tag_name('div').text,
+                    'image_url':browser2.find_element_by_class_name('ovo-merchant-image-wrapper').find_element_by_tag_name('img').get_attribute('src'),
+                    'discount_start_date':'',
+                    'discount_end_date':browser2.find_element_by_class_name('ovo-merchant-content-wrapper').find_element_by_tag_name('h6').text.replace('Berlaku Hingga ',''),
+                    'created_at':datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                }
+            )
 
     writeToJsonFile(datas)
     return HttpResponse('success')
