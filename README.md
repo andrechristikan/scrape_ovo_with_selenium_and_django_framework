@@ -2,7 +2,7 @@
 Let me know what is your problem, feel free to contact me
 
 ## Created by Andre Christi Kan
-This project used Django framework 2.1.7 on Python 3.7
+This project used `Django framework 2.1.7` on `Python 3.7`
 
 ### Extension
 * `Selenium 3.1` : Selenium Version 
